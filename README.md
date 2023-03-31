@@ -4,41 +4,49 @@
 
 ### :hammer_and_wrench: Tools
 
-- :file_folder: [tb-filter-rules-gen][repo.tool.tb-filter-rules-gen]: Rename files by appending EXIF metadata to them.
-- :file_folder: [exif-rename-py][repo.tool.exif-rename-py]: Generate filter rules for the Thunderbird email client by using YAML config files.
+| repo                                                               | description                                                                        |
+| :----------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| :file_folder: [tb-filter-rules-gen][repo.tool.tb-filter-rules-gen] | Rename files by appending EXIF metadata to them.                                   |
+| :file_folder: [exif-rename-py][repo.tool.exif-rename-py]           | Generate filter rules for the Thunderbird email client by using YAML config files. |
 
 ### :mortar_board: School Projects
 
-- :file_folder: [xfit][repo.school.xfit]: [CEN4090C] Software Engineering Capstone Project. XFit: A webapp for planning your weekly workout routine.
-- :file_folder: [mdc-compair-php][repo.school.mdc-compair-php]: [COP4834] Data Driven Web Applications Final Project. A website for a fictional HVAC repair company.
-- :file_folder: [mdc-compair][repo.school.mdc-compair]: [COP4807] Web Programming with Java Final Project. A website for a fictional HVAC repair company. 
-- :file_folder: [mdc-memobook][repo.school.mdc-memobook]: [COP2800] Java Programming Final Project. My first ever project. A simple text editor, inspired by Windows Notepad.
-- :file_folder: [mdc-new-project][repo.school.mdc-new-project]: [COP4807] Web Programming With Java Final Project. A website for ...nothing yet (work in progress).
+|                                                              |                                                                      |
+| :----------------------------------------------------------- | :------------------------------------------------------------------- |
+| :file_folder: [xfit][repo.school.xfit]                       | Webapp for planning your weekly workout routine.                     |
+| :file_folder: [mdc-compair-php][repo.school.mdc-compair-php] | Webapp for a fictional HVAC repair company.                          |
+| :file_folder: [mdc-compair][repo.school.mdc-compair]         | Webapp for a fictional HVAC repair company.                          |
+| :file_folder: [mdc-memobook][repo.school.mdc-memobook]       | First ever project. Simple text editor, inspired by Windows Notepad. |
+| :file_folder: [mdc-new-project][repo.school.mdc-new-project] | A webapp for ...nothing yet (work in progress).                      |
 
 ### :book: Learning
 
-Pluralsight:
+#### Pluralsight
 
-- :file_folder: [lrn-ps-java11-classes-interfaces][repo.learn.lrn-ps-java11-classes-interfaces]
-- :file_folder: [lrn-ps-java11-nulls][repo.learn.lrn-ps-java11-nulls]
-- :file_folder: [lrn-ps-java12-whats-new][repo.learn.lrn-ps-java12-whats-new]
-- :file_folder: [lrn-ps-java13-whats-new][repo.learn.lrn-ps-java13-whats-new]
-- :file_folder: [lrn-ps-java8-lambda-design-patterns][repo.learn.lrn-ps-java8-lambda-design-patterns]
-- :file_folder: [lrn-ps-java8-lambda-expressions][repo.learn.lrn-ps-java8-lambda-expressions]
-- :file_folder: [lrn-ps-java8-reflection-api-method-handles][repo.learn.lrn-ps-java8-reflection-api-method-handles]
-- :file_folder: [lrn-ps-java8-streams-to-process-analyze-data-in-memory][repo.learn.lrn-ps-java8-streams-to-process-analyze-data-in-memory]
-- :file_folder: [lrn-ps-jee7-getting-started-bookstore-back][repo.learn.lrn-ps-jee7-getting-started-bookstore-back]
+|                                                                                                                                           |     |
+| :---------------------------------------------------------------------------------------------------------------------------------------- | :-- |
+| :file_folder: [lrn-ps-java11-classes-interfaces][repo.learn.lrn-ps-java11-classes-interfaces]                                             |     |
+| :file_folder: [lrn-ps-java11-nulls][repo.learn.lrn-ps-java11-nulls]                                                                       |     |
+| :file_folder: [lrn-ps-java12-whats-new][repo.learn.lrn-ps-java12-whats-new]                                                               |     |
+| :file_folder: [lrn-ps-java13-whats-new][repo.learn.lrn-ps-java13-whats-new]                                                               |     |
+| :file_folder: [lrn-ps-java8-lambda-design-patterns][repo.learn.lrn-ps-java8-lambda-design-patterns]                                       |     |
+| :file_folder: [lrn-ps-java8-lambda-expressions][repo.learn.lrn-ps-java8-lambda-expressions]                                               |     |
+| :file_folder: [lrn-ps-java8-reflection-api-method-handles][repo.learn.lrn-ps-java8-reflection-api-method-handles]                         |     |
+| :file_folder: [lrn-ps-java8-streams-to-process-analyze-data-in-memory][repo.learn.lrn-ps-java8-streams-to-process-analyze-data-in-memory] |     |
+| :file_folder: [lrn-ps-jee7-getting-started-bookstore-back][repo.learn.lrn-ps-jee7-getting-started-bookstore-back]                         |     |
 
+#### Strategio (Simulator Six)
 
-Strategio (Simulator Six):
+|                                                                                           |     |
+| :---------------------------------------------------------------------------------------- | :-- |
+| :file_folder: [lrn-s6-junit-practice-cart][repo.learn.lrn-s6-junit-practice-cart]         |     |
+| :file_folder: [lrn-s6-resolve-merge-conflicts][repo.learn.lrn-s6-resolve-merge-conflicts] |     |
 
-- :file_folder: [lrn-s6-junit-practice-cart][repo.learn.lrn-s6-junit-practice-cart]
-- :file_folder: [lrn-s6-resolve-merge-conflicts][repo.learn.lrn-s6-resolve-merge-conflicts]
+#### YouTube
 
-YouTube:
-
-- :file_folder: [lrn-yt-dcb-spring-boot-tutorial][repo.learn.lrn-yt-dcb-spring-boot-tutorial]
-
+|                                                                                             |     |
+| :------------------------------------------------------------------------------------------ | :-- |
+| :file_folder: [lrn-yt-dcb-spring-boot-tutorial][repo.learn.lrn-yt-dcb-spring-boot-tutorial] |     |
 
 [repo.learn.lrn-ps-java11-classes-interfaces]: https://github.com/reinielfc/lrn-ps-java11-classes-interfaces
 [repo.learn.lrn-ps-java11-nulls]: https://github.com/reinielfc/lrn-ps-java11-nulls
