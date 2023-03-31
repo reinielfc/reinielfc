@@ -33,7 +33,7 @@
 | :file_folder: [lrn-ps-java8-lambda-expressions][repo.learn.lrn-ps-java8-lambda-expressions]                                               | Using Lambda Expressions in Java 8 Code                     |
 | :file_folder: [lrn-ps-java8-reflection-api-method-handles][repo.learn.lrn-ps-java8-reflection-api-method-handles]                         | Java 8 Fundamentals: The Java Reflection API Method Handles |
 | :file_folder: [lrn-ps-java8-streams-to-process-analyze-data-in-memory][repo.learn.lrn-ps-java8-streams-to-process-analyze-data-in-memory] | Using Java 8 Streams to Process and Analyze Data in Memory  |
-|  |
+| :file_folder: [lrn-ps-ng-getting-started][gist.learn.lrn-ps-ng-getting-started]                                                           | Angular: Getting Started                                    |
 
 #### Strategio (Simulator Six)
 
@@ -48,6 +48,7 @@
 | :------------------------------------------------------------------------------------------ | :------------------------------------------------------ |
 | :file_folder: [lrn-yt-dcb-spring-boot-tutorial][repo.learn.lrn-yt-dcb-spring-boot-tutorial] | Daily Code Buffer (@shabbirdwd53): Spring Boot Tutorial |
 
+[gist.learn.lrn-ps-ng-getting-started]: https://gist.github.com/reinielfc/d0b3c20b2c6e14ae9d79f9654bcc896a
 [repo.learn.lrn-ps-java11-classes-interfaces]: https://github.com/reinielfc/lrn-ps-java11-classes-interfaces
 [repo.learn.lrn-ps-java11-nulls]: https://github.com/reinielfc/lrn-ps-java11-nulls
 [repo.learn.lrn-ps-java12-whats-new]: https://github.com/reinielfc/lrn-ps-java12-whats-new
