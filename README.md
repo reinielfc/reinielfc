@@ -1,6 +1,6 @@
 # reinielfc
 
-## Repos
+## :open_file_folder: Repositories
 
 ### :hammer_and_wrench: Tools
 
@@ -23,30 +23,30 @@
 
 #### Pluralsight
 
-|                                                                                                                                           |     |
-| :---------------------------------------------------------------------------------------------------------------------------------------- | :-- |
-| :file_folder: [lrn-ps-java11-classes-interfaces][repo.learn.lrn-ps-java11-classes-interfaces]                                             |     |
-| :file_folder: [lrn-ps-java11-nulls][repo.learn.lrn-ps-java11-nulls]                                                                       |     |
-| :file_folder: [lrn-ps-java12-whats-new][repo.learn.lrn-ps-java12-whats-new]                                                               |     |
-| :file_folder: [lrn-ps-java13-whats-new][repo.learn.lrn-ps-java13-whats-new]                                                               |     |
-| :file_folder: [lrn-ps-java8-lambda-design-patterns][repo.learn.lrn-ps-java8-lambda-design-patterns]                                       |     |
-| :file_folder: [lrn-ps-java8-lambda-expressions][repo.learn.lrn-ps-java8-lambda-expressions]                                               |     |
-| :file_folder: [lrn-ps-java8-reflection-api-method-handles][repo.learn.lrn-ps-java8-reflection-api-method-handles]                         |     |
-| :file_folder: [lrn-ps-java8-streams-to-process-analyze-data-in-memory][repo.learn.lrn-ps-java8-streams-to-process-analyze-data-in-memory] |     |
-| :file_folder: [lrn-ps-jee7-getting-started-bookstore-back][repo.learn.lrn-ps-jee7-getting-started-bookstore-back]                         |     |
+|                                                                                                                                           |                                                             |
+| :---------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------- |
+| :file_folder: [lrn-ps-java11-classes-interfaces][repo.learn.lrn-ps-java11-classes-interfaces]                                             | Working with Classes and Interfaces in Java 11              |
+| :file_folder: [lrn-ps-java11-nulls][repo.learn.lrn-ps-java11-nulls]                                                                       | Working with Nulls in Java 11                               |
+| :file_folder: [lrn-ps-java12-whats-new][repo.learn.lrn-ps-java12-whats-new]                                                               | What's New in Java 12                                       |
+| :file_folder: [lrn-ps-java13-whats-new][repo.learn.lrn-ps-java13-whats-new]                                                               | What's new in Java 13                                       |
+| :file_folder: [lrn-ps-java8-lambda-design-patterns][repo.learn.lrn-ps-java8-lambda-design-patterns]                                       | Implementing Design Patterns Using Java 8 Lambda            |
+| :file_folder: [lrn-ps-java8-lambda-expressions][repo.learn.lrn-ps-java8-lambda-expressions]                                               | Using Lambda Expressions in Java 8 Code                     |
+| :file_folder: [lrn-ps-java8-reflection-api-method-handles][repo.learn.lrn-ps-java8-reflection-api-method-handles]                         | Java 8 Fundamentals: The Java Reflection API Method Handles |
+| :file_folder: [lrn-ps-java8-streams-to-process-analyze-data-in-memory][repo.learn.lrn-ps-java8-streams-to-process-analyze-data-in-memory] | Using Java 8 Streams to Process and Analyze Data in Memory  |
+|  |
 
 #### Strategio (Simulator Six)
 
-|                                                                                           |     |
-| :---------------------------------------------------------------------------------------- | :-- |
-| :file_folder: [lrn-s6-junit-practice-cart][repo.learn.lrn-s6-junit-practice-cart]         |     |
-| :file_folder: [lrn-s6-resolve-merge-conflicts][repo.learn.lrn-s6-resolve-merge-conflicts] |     |
+|                                                                                           |                              |
+| :---------------------------------------------------------------------------------------- | :--------------------------- |
+| :file_folder: [lrn-s6-junit-practice-cart][repo.learn.lrn-s6-junit-practice-cart]         | JUnit Shopping Cart Exercise |
+| :file_folder: [lrn-s6-resolve-merge-conflicts][repo.learn.lrn-s6-resolve-merge-conflicts] | Resolving Merge Conflicts    |
 
 #### YouTube
 
-|                                                                                             |     |
-| :------------------------------------------------------------------------------------------ | :-- |
-| :file_folder: [lrn-yt-dcb-spring-boot-tutorial][repo.learn.lrn-yt-dcb-spring-boot-tutorial] |     |
+|                                                                                             |                                                         |
+| :------------------------------------------------------------------------------------------ | :------------------------------------------------------ |
+| :file_folder: [lrn-yt-dcb-spring-boot-tutorial][repo.learn.lrn-yt-dcb-spring-boot-tutorial] | Daily Code Buffer (@shabbirdwd53): Spring Boot Tutorial |
 
 [repo.learn.lrn-ps-java11-classes-interfaces]: https://github.com/reinielfc/lrn-ps-java11-classes-interfaces
 [repo.learn.lrn-ps-java11-nulls]: https://github.com/reinielfc/lrn-ps-java11-nulls
