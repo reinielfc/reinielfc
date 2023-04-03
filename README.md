@@ -6,8 +6,8 @@
 
 | repo                                                               | description                                                                        |
 | :----------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
-| :file_folder: [tb-filter-rules-gen][repo.tool.tb-filter-rules-gen] | Rename files by appending EXIF metadata to them.                                   |
-| :file_folder: [exif-rename-py][repo.tool.exif-rename-py]           | Generate filter rules for the Thunderbird email client by using YAML config files. |
+| :file_folder: [tb-filter-rules-gen][repo.tool.tb-filter-rules-gen] | Generate filter rules for the Thunderbird email client by using YAML config files. |
+| :file_folder: [exif-rename-py][repo.tool.exif-rename-py]           | Rename files by appending EXIF metadata to them.                                   |
 
 ### :mortar_board: School Projects
 
