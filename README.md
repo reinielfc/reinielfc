@@ -63,10 +63,11 @@ class Main {
 
 #### Strategio (Simulator Six)
 
-|                                                                                           |                              |
-| :---------------------------------------------------------------------------------------- | :--------------------------- |
-| :file_folder: [lrn-s6-junit-practice-cart][repo.learn.lrn-s6-junit-practice-cart]         | JUnit Shopping Cart Exercise |
-| :file_folder: [lrn-s6-resolve-merge-conflicts][repo.learn.lrn-s6-resolve-merge-conflicts] | Resolving Merge Conflicts    |
+|                                                                                           |                               |
+| :---------------------------------------------------------------------------------------- | :---------------------------- |
+| :file_folder: [fp-sim6-devpros][repo.learn.fp-sim6-devpros]                               | Get After It: Workout Planner |
+| :file_folder: [lrn-s6-junit-practice-cart][repo.learn.lrn-s6-junit-practice-cart]         | JUnit Shopping Cart Exercise  |
+| :file_folder: [lrn-s6-resolve-merge-conflicts][repo.learn.lrn-s6-resolve-merge-conflicts] | Resolving Merge Conflicts     |
 
 #### YouTube
 
@@ -88,6 +89,7 @@ class Main {
 [repo.learn.lrn-s6-junit-practice-cart]: https://github.com/reinielfc/lrn-s6-junit-practice-cart
 [repo.learn.lrn-s6-resolve-merge-conflicts]: https://github.com/reinielfc/lrn-s6-resolve-merge-conflicts
 [repo.learn.lrn-yt-dcb-spring-boot-tutorial]: https://github.com/reinielfc/lrn-yt-dcb-spring-boot-tutorial
+[repo.learn.fp-sim6-devpros]: https://github.com/strategio-tech/fp-sim6-devpros
 [repo.school.mdc-compair-php]: https://github.com/reinielfc/mdc-compair-php
 [repo.school.mdc-compair]: https://github.com/reinielfc/mdc-compair/tree/dev
 [repo.school.mdc-memobook]: https://github.com/reinielfc/mdc-memobook
