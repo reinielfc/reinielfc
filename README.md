@@ -1,7 +1,12 @@
 # :wave: Hi, I'm Reiniel!
 
 ```java
-Developer reinielfc = new FullStackDeveloper("Reiniel", "Fernandez");
+class Main {
+  public static void main(String args[]) {
+    Developer reinielfc = new FullStackDeveloper("Reiniel", "Fernandez");
+    System.out.println(reinielfc);
+  }
+}
 ```
 
 ## :open_file_folder: Repositories
