@@ -1,7 +1,7 @@
 # :wave: Hi, I'm Reiniel!
 
 ```java
-class Main {
+public class Main {
   public static void main(String args[]) {
     Developer reinielfc = new FullStackDeveloper("Reiniel", "Fernandez");
     System.out.println(reinielfc);
@@ -15,8 +15,10 @@ class Main {
 
 | repo                                                               | description                                                                        |
 | :----------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
-| :file_folder: [tb-filter-rules-gen][repo.tool.tb-filter-rules-gen] | Generate filter rules for the Thunderbird email client by using YAML config files. |
 | :file_folder: [exif-rename-py][repo.tool.exif-rename-py]           | Rename files by appending EXIF metadata to them.                                   |
+| :file_folder: [tb-filter-rules-gen][repo.tool.tb-filter-rules-gen] | Generate filter rules for the Thunderbird email client by using YAML config files. |
+
+
 
 ### :mortar_board: School Projects
 
