@@ -37,7 +37,7 @@ public class Main {
 | :file_folder: [mdc-memobook][repo.school.mdc-memobook]       | First ever project. Simple text editor, inspired by Windows Notepad. |
 
 </details>
-
+<!--
 ### :book: Learning
 
 #### Pluralsight
@@ -76,6 +76,7 @@ public class Main {
 |                                                                                             |                                                         |
 | :------------------------------------------------------------------------------------------ | :------------------------------------------------------ |
 | :file_folder: [lrn-yt-dcb-spring-boot-tutorial][repo.learn.lrn-yt-dcb-spring-boot-tutorial] | Daily Code Buffer (@shabbirdwd53): Spring Boot Tutorial |
+-->
 
 [gist.learn.lrn-ps-js-rest-api-crud-actions]: https://gist.github.com/reinielfc/03386c2bb301f31feb9051d2d5caff93
 [gist.learn.lrn-ps-ng-getting-started]: https://gist.github.com/reinielfc/d0b3c20b2c6e14ae9d79f9654bcc896a
