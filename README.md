@@ -59,7 +59,7 @@ public class Main {
 
 [b.ansible]:    https://img.shields.io/badge/Ansible-151515?logo=ansible
 [b.arch]:       https://img.shields.io/badge/Arch_Linux-333333?logo=archlinux
-[b.aws]:        https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white
+[b.aws]:        https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white
 [b.bash]:       https://img.shields.io/badge/Bash-gray?logo=gnu-bash&logoColor=white
 [b.cpp]:        https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white
 [b.css]:        https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white
