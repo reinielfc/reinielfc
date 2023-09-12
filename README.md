@@ -1,7 +1,7 @@
 # :wave: Hi, I'm Reiniel!
 
-> ![b.java] ![b.py] ![b.sql] ![b.html] ![b.css] ![b.js] ![b.bash] 
-> ![b.spring] ![b.react] ![b.ng] ![b.docker] ![b.aws] ![b.linux]
+<sup>![b.java] ![b.py] ![b.sql] ![b.html] ![b.css] ![b.js] ![b.bash]</sup>
+<sup>![b.spring] ![b.react] ![b.ng] ![b.docker] ![b.aws] ![b.linux]</sup>
 
 ```java
 public class Main {
@@ -39,7 +39,7 @@ public class Main {
 | :file_folder: [lrn-s6-junit-practice-cart][repo.strategio.lrn-s6-junit-practice-cart]         | JUnit Shopping Cart Exercise  |
 | :file_folder: [lrn-s6-resolve-merge-conflicts][repo.strategio.lrn-s6-resolve-merge-conflicts] | Resolving Merge Conflicts     |
 
----
+* * *
 
 > [![b.gmail]](mailto:reinielfc@gmail.com)
 > [![b.in]](https://linkedin.com/in/reinielfc)
@@ -73,7 +73,7 @@ public class Main {
 [b.gsuite]:     https://img.shields.io/badge/Workspace-white?logo=google
 [b.html]:       https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white
 [b.in]:         https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin
-[b.java]:       https://img.shields.io/badge/Java-white.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTcuNzAxIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMTcuNzAxIDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIHRyYW5zZm9ybT0ic2NhbGUoMS4yODQ1KSI+PHBhdGggZD0ibTQuNDM3OSAxNC40NDlzLS43MTM5OC40MTUyMS41MDgxMi41NTU3MWMxLjQ4MDUuMTY4OSAyLjIzNzIuMTQ0NjggMy44Njg4LS4xNjQxMi4wLjAuNDI4OTUuMjY4OTYgMS4wMjguNTAxOTItMy42NTc1IDEuNTY3Ni04LjI3NzctLjA5MDgtNS40MDQ5LS44OTM1MSIgZmlsbD0iIzUzODJhMSIvPjxwYXRoIGQ9Im0zLjk5MSAxMi40MDRzLS44MDA4LjU5Mjc3LjQyMjIxLjcxOTI3YzEuNTgxNi4xNjMxNiAyLjgzMDYuMTc2NTEgNC45OTE4LS4yMzk2Ni4wLjAuMjk4OTMuMzAzMDYuNzY4OTguNDY4NzktNC40MjIyIDEuMjkzMS05LjM0NzcuMTAxOTgtNi4xODMtLjk0ODQiIGZpbGw9IiM1MzgyYTEiLz48cGF0aCBkPSJtNy43NTg3IDguOTMzNmMuOTAxMjIgMS4wMzc2LS4yMzY3OSAxLjk3MTMtLjIzNjc5IDEuOTcxM3MyLjI4ODMtMS4xODEzIDEuMjM3NC0yLjY2MDZjLS45ODE1NC0xLjM3OTUtMS43MzQyLTIuMDY1IDIuMzQwNi00LjQyODIuMC4wLTYuMzk2MiAxLjU5NzUtMy4zNDEyIDUuMTE3NSIgZmlsbD0iI2Y4OTgxZCIvPjxnIGZpbGw9IiM1MzgyYTEiPjxwYXRoIGQ9Im0xMi41OTYgMTUuOTYycy41MjgzNi40MzUzNS0uNTgxODkuNzcyMTVjLTIuMTExMi42Mzk1NS04Ljc4Ny44MzI2OC0xMC42NDEuMDI1NDgtLjY2NjY1LS4yOTAwMi41ODM1LS42OTI0OC45NzY3Ni0uNzc2OTMuNDEwMTItLjA4ODkzLjY0NDQ5LS4wNzIzNy42NDQ0OS0uMDcyMzctLjc0MTM4LS41MjIyNi00Ljc5MiAxLjAyNTUtMi4wNTc1IDEuNDY4OCA3LjQ1NzMgMS4yMDk0IDEzLjU5NC0uNTQ0NTggMTEuNjYtMS40MTcxIi8+PHBhdGggZD0ibTQuNzgxMiAxMC4yODRzLTMuMzk1Ny44MDY1NC0xLjIwMjUgMS4wOTk0Yy45MjYwNC4xMjM5OCAyLjc3MjEuMDk1OTMgNC40OTE2LS4wNDgxNCAxLjQwNTMtLjExODU0IDIuODE2NC0uMzcwNTkgMi44MTY0LS4zNzA1OXMtLjQ5NTUzLjIxMjIxLS44NTQwMy40NTdjLTMuNDQ4My45MDY5LTEwLjExLjQ4NS04LjE5Mi0uNDQyNjYgMS42MjE4LS43ODM5OCAyLjk0MDUtLjY5NTA1IDIuOTQwNS0uNjk1MDUiLz48cGF0aCBkPSJtMTAuODczIDEzLjY4OWMzLjUwNTQtMS44MjE1IDEuODg0Ni0zLjU3Mi43NTMzNi0zLjMzNjItLjI3NzI4LjA1NzcxLS40MDA5LjEwNzcyLS40MDA5LjEwNzcycy4xMDI5My0uMTYxMjUuMjk5NTMtLjIzMTA0YzIuMjM4LS43ODY4IDMuOTU5MSAyLjMyMDYtLjcyMjQ0IDMuNTUxMy4wIDVlLTUuMDU0MjQtLjA0ODQ0LjA3MDQ1LS4wOTE4Ii8+PC9nPjxwYXRoIGQ9Im04Ljc1OTQuMHMxLjk0MTMgMS45NDItMS44NDEzIDQuOTI4MmMtMy4wMzMyIDIuMzk1NS0uNjkxNjggMy43NjEzLS4wMDEyNTkgNS4zMjE4LTEuNzcwNi0xLjU5NzUtMy4wNjk5LTMuMDAzNy0yLjE5ODItNC4zMTI2IDEuMjc5NS0xLjkyMTIgNC44MjQtMi44NTI3IDQuMDQwNy01LjkzNzQiIGZpbGw9IiNmODk4MWQiLz48cGF0aCBkPSJtNS4xMjU3IDE4LjYyNWMzLjM2NDcuMjE1MzggOC41MzE2LS4xMTk1IDguNjU0LTEuNzExNi4wLjAtLjIzNTIyLjYwMzU1LTIuNzgwOCAxLjA4MjktMi44NzE4LjU0MDQ1LTYuNDEzOS40NzczNS04LjUxNDcuMTMwOTggNTAzZS03LTVlLTUuNDMwMDYuMzU1OTQgMi42NDE1LjQ5Nzc0IiBmaWxsPSIjNTM4MmExIi8+PC9nPjwvc3ZnPg==
+[b.java]:       https://img.shields.io/badge/Java-ED8B00.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTcuNyIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDE3LjcgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkphdmE8L3RpdGxlPjxwYXRoIGQ9Im02LjU4MzkgMjMuOTI1YzQuMzIyLjI3NjY3IDEwLjk2LS4xNTM1IDExLjExNi0yLjE5ODUuMC4wLS4zMDIxNS43NzUyNy0zLjU3MTkgMS4zOTA5LTMuNjg5LjY5NDIyLTguMjM4OC42MTMxNi0xMC45MzcuMTY4MjUgNjQ3ZS03LTY1ZS02LjU1MjQyLjQ1NzIxIDMuMzkzLjYzOTM3bTQuNjY3NS0yMy45MjVzMi40OTM3IDIuNDk0NS0yLjM2NTEgNi4zMzA0Yy0zLjg5NjMgMy4wNzctLjg4ODQ5IDQuODMxNS0uMDAxNjMgNi44MzYxLTIuMjc0My0yLjA1Mi0zLjk0MzQtMy44NTg0LTIuODIzNi01LjUzOTYgMS42NDM1LTIuNDY3OSA2LjE5NjUtMy42NjQ0IDUuMTkwNC03LjYyNjZtMi43MTQ5IDE3LjU4NGM0LjUwMjctMi4zMzk4IDIuNDIwOS00LjU4ODMuOTY3NzQtNC4yODU0LS4zNTYxNy4wNzQxMy0uNTE0OTcuMTM4MzctLjUxNDk3LjEzODM3cy4xMzIyMi0uMjA3MTIuMzg0NzUtLjI5Njc4YzIuODc0Ny0xLjAxMDYgNS4wODU2IDIuOTgwOC0uOTI3OTYgNC41NjE3LjAgNjRlLTYuMDY5NjctLjA2MjI0LjA5MDUtLjExNzkybS03LjgyNDYtNC4zNzM1cy00LjM2MTkgMS4wMzYtMS41NDQ3IDEuNDEyM2MxLjE4OTUuMTU5MjYgMy41NjA4LjEyMzIyIDUuNzY5Ni0uMDYxODQgMS44MDUyLS4xNTIyNyAzLjYxNzctLjQ3NjAzIDMuNjE3Ny0uNDc2MDNzLS42MzY1Mi4yNzI1OS0xLjA5Ny41ODcwM2MtNC40Mjk1IDEuMTY0OS0xMi45ODcuNjIzLTEwLjUyMy0uNTY4NiAyLjA4MzMtMS4wMDcxIDMuNzc3Mi0uODkyNzcgMy43NzcyLS44OTI3N20xMC4wMzggNy4yOTM0cy42Nzg3LjU1OTIxLS43NDc0NS45OTE4N2MtMi43MTE5LjgyMTU0LTExLjI4NyAxLjA2OTYtMTMuNjY5LjAzMjczLS44NTYzNC0uMzcyNTMuNzQ5NTItLjg4OTUgMS4yNTQ3LS45OTgwMi41MjY4LS4xMTQyMy44Mjc4NS0uMDkyOTUuODI3ODUtLjA5Mjk1LS45NTIzMy0uNjcwODYtNi4xNTU0IDEuMzE3My0yLjY0MjkgMS44ODY3IDkuNTc4NSAxLjU1MzUgMTcuNDYyLS42OTk1MiAxNC45NzctMS44MjAzbS02LjIxMzktOS4wMjgyYzEuMTU3NiAxLjMzMjgtLjMwNDE2IDIuNTMyMi0uMzA0MTYgMi41MzIyczIuOTM5NC0xLjUxNzQgMS41ODk0LTMuNDE3NmMtMS4yNjA4LTEuNzcyLTIuMjI3Ny0yLjY1MjUgMy4wMDY2LTUuNjg4Mi4wLjAtOC4yMTYyIDIuMDUyLTQuMjkxOSA2LjU3MzVtLTQuODM5OCA0LjQ1N3MtMS4wMjg2Ljc2MTQzLjU0MjM0LjkyMzkxYzIuMDMxNS4yMDk1OCAzLjYzNTkuMjI2NzMgNi40MTItLjMwNzg1LjAuMC4zODM5OC4zODkyOC45ODc3NS42MDIxNy01LjY4MDQgMS42NjEtMTIuMDA3LjEzMDk5LTcuOTQyMi0xLjIxODNtLjU3NDE2IDIuNjI3NnMtLjkxNzE0LjUzMzM0LjY1MjY5LjcxMzgxYzEuOTAxOC4yMTY5NiAyLjg3MzguMTg1ODQgNC45Njk2LS4yMTA4Mi4wLjAuNTUxLjM0NTQ5IDEuMzIwNS42NDQ3My00LjY5ODIgMi4wMTM2LTEwLjYzMy0uMTE2NjQtNi45NDI4LTEuMTQ3NyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==
 [b.jenkins]:    https://img.shields.io/badge/Jenkins-white?logo=jenkins&logoColor=212529
 [b.js]:         https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E
 [b.k8]:         https://img.shields.io/badge/Kubernetes-white?logo=kubernetes
@@ -88,3 +88,4 @@ public class Main {
 [b.sql]:        https://img.shields.io/badge/MySQL-2b5d80?logo=mysql&logoColor=white
 [b.terraform]:  https://img.shields.io/badge/Terraform-white?logo=terraform&logoColor=7b42bc
 [b.win]:        https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white
+[b.jdk]:        https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white
