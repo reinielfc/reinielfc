@@ -1,9 +1,7 @@
 # :wave: Hi, I'm Reiniel!
 
-[![b.gmail]](mailto:reinielfc@gmail.com)
-[![b.in]](https://linkedin.com/in/reinielfc)
-[![b.gh]](https://github.com/reinielfc)
-[![b.gl]](https://gitlab.com/reinielfc)
+> ![b.java] ![b.py] ![b.sql] ![b.html] ![b.css] ![b.js] ![b.bash] 
+> ![b.spring] ![b.react] ![b.ng] ![b.docker] ![b.aws] ![b.linux]
 
 ```java
 public class Main {
@@ -13,18 +11,6 @@ public class Main {
   }
 }
 ```
-
-## Skills
-
-|                      |                                                                                                               |
-| -------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Languages            | ![b.java] ![b.py] ![b.sql] ![b.html] ![b.css] ![b.js] \* ![b.php] ![b.cpp]                                    |
-| Frameworks/Libraries | ![b.spring] ![b.react] ![b.ng]                                                                                |
-| DevOps Tools         | ![b.mvn] ![b.gradle] ![b.git] ![b.gh] ![b.gl] ![b.docker] \* ![b.jenkins] ![b.ansible] ![b.terraform] ![b.k8] |
-| Cloud Technologies   | ![b.aws]                                                                                                      |
-| Operating Systems    | ![b.linux] ![b.arch] ![b.win]                                                                                 |
-| Administrative Tools | ![b.bash] ![b.pwsh] ![b.gsuite]                                                                               |
-| Other                | :es: :uk:                                                                                                     |
 
 ## :open_file_folder: Repositories
 
@@ -52,6 +38,13 @@ public class Main {
 | :file_folder: [fp-sim6-devpros][repo.strategio.fp-sim6-devpros]                               | Get After It: Workout Planner |
 | :file_folder: [lrn-s6-junit-practice-cart][repo.strategio.lrn-s6-junit-practice-cart]         | JUnit Shopping Cart Exercise  |
 | :file_folder: [lrn-s6-resolve-merge-conflicts][repo.strategio.lrn-s6-resolve-merge-conflicts] | Resolving Merge Conflicts     |
+
+---
+
+> [![b.gmail]](mailto:reinielfc@gmail.com)
+> [![b.in]](https://linkedin.com/in/reinielfc)
+> [![b.gh]](https://github.com/reinielfc)
+> [![b.gl]](https://gitlab.com/reinielfc)
 
 [repo.school.mdc-compair-php]: https://github.com/reinielfc/mdc-compair-php
 [repo.school.mdc-compair]: https://github.com/reinielfc/mdc-compair/tree/dev
