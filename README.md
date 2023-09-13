@@ -41,7 +41,7 @@ public class Main {
 
 * * *
 
-> [![b.gmail]](mailto:reinielfc@gmail.com)
+> [![b.gmail]](mailto:contact@reinielfc.me)
 > [![b.in]](https://linkedin.com/in/reinielfc)
 > [![b.gh]](https://github.com/reinielfc)
 > [![b.gl]](https://gitlab.com/reinielfc)
@@ -68,11 +68,11 @@ public class Main {
 [b.gh]:         https://img.shields.io/badge/GitHub-24292f?logo=github
 [b.git]:        https://img.shields.io/badge/Git-f0f0e8?logo=git
 [b.gl]:         https://img.shields.io/badge/GitLab-171321?logo=gitlab
-[b.gmail]:      https://img.shields.io/badge/reinielfc%40gmail.com-white?logo=gmail
+[b.gmail]:      https://img.shields.io/badge/contact%40reinielfc.me-white?logo=gmail
 [b.gradle]:     https://img.shields.io/badge/Gradle-02303a?logo=gradle
 [b.gsuite]:     https://img.shields.io/badge/Workspace-white?logo=google
 [b.html]:       https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white
-[b.in]:         https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin
+[b.in]:         https://img.shields.io/badge/LinkedIn-in%2Freinielfc-white?logo=linkedin&labelColor=0a66c2
 [b.java]:       https://img.shields.io/badge/Java-ED8B00.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTcuNyIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDE3LjcgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkphdmE8L3RpdGxlPjxwYXRoIGQ9Im02LjU4MzkgMjMuOTI1YzQuMzIyLjI3NjY3IDEwLjk2LS4xNTM1IDExLjExNi0yLjE5ODUuMC4wLS4zMDIxNS43NzUyNy0zLjU3MTkgMS4zOTA5LTMuNjg5LjY5NDIyLTguMjM4OC42MTMxNi0xMC45MzcuMTY4MjUgNjQ3ZS03LTY1ZS02LjU1MjQyLjQ1NzIxIDMuMzkzLjYzOTM3bTQuNjY3NS0yMy45MjVzMi40OTM3IDIuNDk0NS0yLjM2NTEgNi4zMzA0Yy0zLjg5NjMgMy4wNzctLjg4ODQ5IDQuODMxNS0uMDAxNjMgNi44MzYxLTIuMjc0My0yLjA1Mi0zLjk0MzQtMy44NTg0LTIuODIzNi01LjUzOTYgMS42NDM1LTIuNDY3OSA2LjE5NjUtMy42NjQ0IDUuMTkwNC03LjYyNjZtMi43MTQ5IDE3LjU4NGM0LjUwMjctMi4zMzk4IDIuNDIwOS00LjU4ODMuOTY3NzQtNC4yODU0LS4zNTYxNy4wNzQxMy0uNTE0OTcuMTM4MzctLjUxNDk3LjEzODM3cy4xMzIyMi0uMjA3MTIuMzg0NzUtLjI5Njc4YzIuODc0Ny0xLjAxMDYgNS4wODU2IDIuOTgwOC0uOTI3OTYgNC41NjE3LjAgNjRlLTYuMDY5NjctLjA2MjI0LjA5MDUtLjExNzkybS03LjgyNDYtNC4zNzM1cy00LjM2MTkgMS4wMzYtMS41NDQ3IDEuNDEyM2MxLjE4OTUuMTU5MjYgMy41NjA4LjEyMzIyIDUuNzY5Ni0uMDYxODQgMS44MDUyLS4xNTIyNyAzLjYxNzctLjQ3NjAzIDMuNjE3Ny0uNDc2MDNzLS42MzY1Mi4yNzI1OS0xLjA5Ny41ODcwM2MtNC40Mjk1IDEuMTY0OS0xMi45ODcuNjIzLTEwLjUyMy0uNTY4NiAyLjA4MzMtMS4wMDcxIDMuNzc3Mi0uODkyNzcgMy43NzcyLS44OTI3N20xMC4wMzggNy4yOTM0cy42Nzg3LjU1OTIxLS43NDc0NS45OTE4N2MtMi43MTE5LjgyMTU0LTExLjI4NyAxLjA2OTYtMTMuNjY5LjAzMjczLS44NTYzNC0uMzcyNTMuNzQ5NTItLjg4OTUgMS4yNTQ3LS45OTgwMi41MjY4LS4xMTQyMy44Mjc4NS0uMDkyOTUuODI3ODUtLjA5Mjk1LS45NTIzMy0uNjcwODYtNi4xNTU0IDEuMzE3My0yLjY0MjkgMS44ODY3IDkuNTc4NSAxLjU1MzUgMTcuNDYyLS42OTk1MiAxNC45NzctMS44MjAzbS02LjIxMzktOS4wMjgyYzEuMTU3NiAxLjMzMjgtLjMwNDE2IDIuNTMyMi0uMzA0MTYgMi41MzIyczIuOTM5NC0xLjUxNzQgMS41ODk0LTMuNDE3NmMtMS4yNjA4LTEuNzcyLTIuMjI3Ny0yLjY1MjUgMy4wMDY2LTUuNjg4Mi4wLjAtOC4yMTYyIDIuMDUyLTQuMjkxOSA2LjU3MzVtLTQuODM5OCA0LjQ1N3MtMS4wMjg2Ljc2MTQzLjU0MjM0LjkyMzkxYzIuMDMxNS4yMDk1OCAzLjYzNTkuMjI2NzMgNi40MTItLjMwNzg1LjAuMC4zODM5OC4zODkyOC45ODc3NS42MDIxNy01LjY4MDQgMS42NjEtMTIuMDA3LjEzMDk5LTcuOTQyMi0xLjIxODNtLjU3NDE2IDIuNjI3NnMtLjkxNzE0LjUzMzM0LjY1MjY5LjcxMzgxYzEuOTAxOC4yMTY5NiAyLjg3MzguMTg1ODQgNC45Njk2LS4yMTA4Mi4wLjAuNTUxLjM0NTQ5IDEuMzIwNS42NDQ3My00LjY5ODIgMi4wMTM2LTEwLjYzMy0uMTE2NjQtNi45NDI4LTEuMTQ3NyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==
 [b.jenkins]:    https://img.shields.io/badge/Jenkins-white?logo=jenkins&logoColor=212529
 [b.js]:         https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E
