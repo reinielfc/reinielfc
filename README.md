@@ -14,12 +14,14 @@ public class Main {
 
 ## :open_file_folder: Repositories
 
+<!--
 ### :hammer_and_wrench: Tools
 
 | repo                                                               | description                                                                        |
 | :----------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
 | :file_folder: [exif-rename-py][repo.tool.exif-rename-py]           | Rename files by appending EXIF metadata to them.                                   |
 | :file_folder: [tb-filter-rules-gen][repo.tool.tb-filter-rules-gen] | Generate filter rules for the Thunderbird email client by using YAML config files. |
+-->
 
 ### :mortar_board: School Projects
 
