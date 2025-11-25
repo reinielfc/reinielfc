@@ -70,7 +70,7 @@ public class Main {
 [b.gh]:         https://img.shields.io/badge/GitHub-24292f?logo=github
 [b.git]:        https://img.shields.io/badge/Git-f0f0e8?logo=git
 [b.gl]:         https://img.shields.io/badge/GitLab-171321?logo=gitlab
-[b.gmail]:      https://img.shields.io/badge/contact%40reinielfc.me-white?logo=gmail
+[b.gmail]:      https://img.shields.io/badge/contact%40reinielfc.dev-white?logo=gmail
 [b.gradle]:     https://img.shields.io/badge/Gradle-02303a?logo=gradle
 [b.gsuite]:     https://img.shields.io/badge/Workspace-white?logo=google
 [b.html]:       https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white
