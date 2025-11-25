@@ -43,7 +43,7 @@ public class Main {
 
 * * *
 
-> [![b.gmail]](mailto:contact@reinielfc.me)
+> [![b.gmail]](mailto:contact@reinielfc.dev)
 > [![b.in]](https://linkedin.com/in/reinielfc)
 > [![b.gh]](https://github.com/reinielfc)
 > [![b.gl]](https://gitlab.com/reinielfc)
