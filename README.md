@@ -28,10 +28,9 @@ public class Main {
 |                                                              |                                                                      |
 | :----------------------------------------------------------- | :------------------------------------------------------------------- |
 | :file_folder: [xfit][repo.school.xfit]                       | Webapp for planning your weekly workout routine.                     |
-| :file_folder: [mdc-compair][repo.school.mdc-compair]         | Webapp for a fictional HVAC repair company.                          |
-| :file_folder: [mdc-compair-php][repo.school.mdc-compair-php] | Webapp for a fictional HVAC repair company.                          |
-| :file_folder: [mdc-new-project][repo.school.mdc-new-project] | A webapp for ...nothing yet (work in progress).                      |
-| :file_folder: [mdc-memobook][repo.school.mdc-memobook]       | First ever project. Simple text editor, inspired by Windows Notepad. |
+| :file_folder: [compair-java][repo.school.mdc-compair-java]   | Webapp for a fictional HVAC repair company.                          |
+| :file_folder: [compair-php][repo.school.mdc-compair-php]     | Webapp for a fictional HVAC repair company.                          |
+| :file_folder: [memobook][repo.school.mdc-memobook]           | First ever project. Simple text editor, inspired by Windows Notepad. |
 
 ### Strategio Projects (Sim 6)
 
@@ -49,9 +48,8 @@ public class Main {
 > [![b.gl]](https://gitlab.com/reinielfc)
 
 [repo.school.mdc-compair-php]: https://github.com/reinielfc/mdc-compair-php
-[repo.school.mdc-compair]: https://github.com/reinielfc/mdc-compair/tree/dev
+[repo.school.mdc-compair-java]: https://github.com/reinielfc/mdc-compair-java
 [repo.school.mdc-memobook]: https://github.com/reinielfc/mdc-memobook
-[repo.school.mdc-new-project]: https://github.com/reinielfc/mdc-new-project
 [repo.school.xfit]: https://github.com/reinielfc/xfit
 [repo.strategio.fp-sim6-devpros]: https://github.com/strategio-tech/fp-sim6-devpros
 [repo.strategio.lrn-s6-junit-practice-cart]: https://github.com/reinielfc/lrn-s6-junit-practice-cart
