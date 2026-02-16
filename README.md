@@ -14,23 +14,15 @@ public class Main {
 
 ## :open_file_folder: Repositories
 
-<!--
-### :hammer_and_wrench: Tools
-
-| repo                                                               | description                                                                        |
-| :----------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
-| :file_folder: [exif-rename-py][repo.tool.exif-rename-py]           | Rename files by appending EXIF metadata to them.                                   |
-| :file_folder: [tb-filter-rules-gen][repo.tool.tb-filter-rules-gen] | Generate filter rules for the Thunderbird email client by using YAML config files. |
--->
 
 ### :mortar_board: School Projects
 
-|                                                              |                                                                      |
-| :----------------------------------------------------------- | :------------------------------------------------------------------- |
-| :file_folder: [xfit][repo.school.xfit]                       | Webapp for planning your weekly workout routine.                     |
-| :file_folder: [compair-java][repo.school.mdc-compair-java]   | Webapp for a fictional HVAC repair company.                          |
-| :file_folder: [compair-php][repo.school.mdc-compair-php]     | Webapp for a fictional HVAC repair company.                          |
-| :file_folder: [memobook][repo.school.mdc-memobook]           | First ever project. Simple text editor, inspired by Windows Notepad. |
+|                                                            |                                                                                |                                                                      |
+| :--------------------------------------------------------- | :----------------------------------------------------------------------------- | :------------------------------------------------------------------- |
+| :file_folder: [xfit][repo.school.xfit]                     | https://img.shields.io/date/?style=flat-square&label=%20&color=white           | Webapp for planning your weekly workout routine.                     |
+| :file_folder: [compair-java][repo.school.mdc-compair-java] | https://img.shields.io/date/1659599653?style=flat-square&label=%20&color=white | Webapp for a fictional HVAC repair company.                          |
+| :file_folder: [compair-php][repo.school.mdc-compair-php]   | https://img.shields.io/date/1608205606?style=flat-square&label=%20&color=white | Webapp for a fictional HVAC repair company.                          |
+| :file_folder: [memobook][repo.school.mdc-memobook]         | https://img.shields.io/date/?style=flat-square&label=%20&color=white           | First ever project. Simple text editor, inspired by Windows Notepad. |
 
 ### Strategio Projects (Sim 6)
 
