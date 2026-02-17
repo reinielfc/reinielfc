@@ -23,9 +23,9 @@ public class Main {
 
 ### :briefcase: Strategio Enterprise Simulator
 
-* :file_folder: [Get After It][repo.strategio.fp-sim6-devpros] Final Project
-* :file_folder: [JUnit Practice Cart][repo.strategio.junit-practice-cart] Exercise
-* :file_folder: [Resolving Merge Conficts][repo.strategio.resolve-merge-conflicts] Exercise
+* :file_folder: [Get After It][repo.strategio.get-after-it] ![b.tag.final-project]
+* :file_folder: [JUnit Practice Cart][repo.strategio.junit-practice-cart] ![b.tag.exercise]
+* :file_folder: [Resolving Merge Conficts][repo.strategio.resolve-merge-conflicts] ![b.tag.exercise]
 
 * * *
 
@@ -43,12 +43,15 @@ public class Main {
 [repo.school.xfit.last-commit]: https://img.shields.io/date/1654710607?label=&color=white&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNzEuNDMzbW0iIGhlaWdodD0iNzEuNDM4bW0iIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDcxLjQzMyA3MS40MzgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTg3LjM0IC00Mi4yMjMpIiBmaWxsPSIjODA4MDgwIj48cGF0aCBkPSJtLTE4NS40MyA1MC44MzYgNS40MjM1IDUuNDIzNWEzNS43MTkgMzUuNzE5IDAgMSAxLTcuMTQxOSAyNS4zNzYgMy4zNDk5IDMuMzQ5OSAwIDEgMSA2LjY2NDMtMC42ODc0OSAyOS4wMTQgMjkuMDE0IDAgMSAwIDUuMjY3Mi0xOS44OTlsNi4wNjE3IDYuMDYxOGExLjExNTkgMS4xMTU5IDAgMCAxLTAuNzg5NTUgMS45MDZoLTE2LjI3NWExLjExNTkgMS4xMTU5IDAgMCAxLTEuMTE1Mi0xLjExNnYtMTYuMjc1YTEuMTE1OSAxLjExNTkgMCAwIDEgMS45MDYxLTAuNzkwMDZ6bTMyLjY4OCA5LjI1MzNhMy4zNDc4IDMuMzQ3OCAwIDAgMSAzLjM0NzkgMy4zNDc4djEzLjM1Nmw5LjA1MjYgMy42MjQ2YTMuMzQ3OCAzLjM0NzggMCAwIDEtMi40ODY0IDYuMjEzNWwtMTEuMTU5LTQuNDYzOGEzLjM1MjMgMy4zNTIzIDAgMCAxLTIuMTAyNC0zLjEwNjh2LTE1LjYyM2EzLjM0NzggMy4zNDc4IDAgMCAxIDMuMzQ3Ny0zLjM0Nzh6IiBmaWxsPSIjODA4MDgwIiBzdHJva2Utd2lkdGg9IjQuNDYzNyIvPjwvZz48L3N2Zz4K
 [repo.school.xfit]: https://github.com/reinielfc/xfit
 
-[repo.strategio.fp-sim6-devpros]: https://github.com/strategio-tech/fp-sim6-devpros
+[repo.strategio.get-after-it]: https://github.com/strategio-tech/fp-sim6-devpros
 [repo.strategio.junit-practice-cart]: https://github.com/reinielfc/strategio-junit-practice-cart
 [repo.strategio.resolve-merge-conflicts]: https://github.com/reinielfc/strategio-resolve-merge-conflicts
 
 [repo.tool.exif-rename-py]: https://github.com/reinielfc/exif-rename-py
 [repo.tool.tb-filter-rules-gen]: https://github.com/reinielfc/tb-filter-rules-gen
+
+[b.tag.exercise]: https://img.shields.io/badge/📄_Exercise-white
+[b.tag.final-project]: https://img.shields.io/badge/🗂️_Final_Project-white
 
 [b.ansible]:    https://img.shields.io/badge/Ansible-151515?logo=ansible
 [b.arch]:       https://img.shields.io/badge/Arch_Linux-333333?logo=archlinux
@@ -76,7 +79,7 @@ public class Main {
 [b.mvn]:        https://img.shields.io/badge/Maven-282661?logo=apachemaven
 [b.ng]:         https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white
 [b.php]:        https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white
-[b.php.logo]:        https://img.shields.io/badge/-777BB4?logo=php&logoColor=white
+[b.php.logo]:    https://img.shields.io/badge/-777BB4?logo=php&logoColor=white
 [b.pwsh]:       https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white
 [b.py]:         https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white
 [b.react]:      https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB
