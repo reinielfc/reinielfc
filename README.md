@@ -17,12 +17,12 @@ public class Main {
 
 ### :mortar_board: School Projects
 
-|                                                                                                        |                                                                      |
-| :----------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------- |
-| :file_folder: [xfit][repo.school.xfit] ![repo.school.xfit.last-commit]                                 | Webapp for planning your weekly workout routine.                     |
-| :file_folder: [compair-java][repo.school.mdc-compair-java] ![repo.school.mdc-compair-java.last-commit] | Webapp for a fictional HVAC repair company (Java).                          |
-| :file_folder: [compair-php][repo.school.mdc-compair-php] ![repo.school.mdc-compair-php.last-commit]    | Webapp for a fictional HVAC repair company (PHP).                          |
-| :file_folder: [jotr][repo.school.mdc-jotr] ![repo.school.mdc-jotr.last-commit]             | First ever project. Simple text editor, inspired by Windows Notepad. |
+|                                                            |                                             |                                                                      |
+| :--------------------------------------------------------- | :------------------------------------------ | :------------------------------------------------------------------- |
+| :file_folder: [xfit][repo.school.xfit]                     | ![repo.school.xfit.last-commit]             | Webapp for planning your weekly workout routine.                     |
+| :file_folder: [compair-java][repo.school.mdc-compair-java] | ![repo.school.mdc-compair-java.last-commit] | Webapp for a fictional HVAC repair company (Java).                   |
+| :file_folder: [compair-php][repo.school.mdc-compair-php]   | ![repo.school.mdc-compair-php.last-commit]  | Webapp for a fictional HVAC repair company (PHP).                    |
+| :file_folder: [jotr][repo.school.mdc-jotr]                 | ![repo.school.mdc-jotr.last-commit]         | First ever project. Simple text editor, inspired by Windows Notepad. |
 
 ### Strategio Projects (Sim 6)
 
