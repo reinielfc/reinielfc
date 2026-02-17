@@ -17,12 +17,12 @@ public class Main {
 
 ### :mortar_board: School Projects
 
-|                                                            |                                                                                |                                                                      |
-| :--------------------------------------------------------- | :----------------------------------------------------------------------------- | :------------------------------------------------------------------- |
-| :file_folder: [xfit][repo.school.xfit]                     | https://img.shields.io/date/?style=flat-square&label=%20&color=white           | Webapp for planning your weekly workout routine.                     |
-| :file_folder: [compair-java][repo.school.mdc-compair-java] | https://img.shields.io/date/1659599653?style=flat-square&label=%20&color=white | Webapp for a fictional HVAC repair company.                          |
-| :file_folder: [compair-php][repo.school.mdc-compair-php]   | https://img.shields.io/date/1608205606?style=flat-square&label=%20&color=white | Webapp for a fictional HVAC repair company.                          |
-| :file_folder: [memobook][repo.school.mdc-memobook]         | https://img.shields.io/date/?style=flat-square&label=%20&color=white           | First ever project. Simple text editor, inspired by Windows Notepad. |
+|                                                                                                        |                                                                      |
+| :----------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------- |
+| :file_folder: [xfit][repo.school.xfit] ![repo.school.xfit.last-commit]                                 | Webapp for planning your weekly workout routine.                     |
+| :file_folder: [compair-java][repo.school.mdc-compair-java] ![repo.school.mdc-compair-java.last-commit] | Webapp for a fictional HVAC repair company.                          |
+| :file_folder: [compair-php][repo.school.mdc-compair-php] ![repo.school.mdc-compair-php.last-commit]    | Webapp for a fictional HVAC repair company.                          |
+| :file_folder: [memobook][repo.school.mdc-memobook] ![repo.school.mdc-memobook.last-commit]             | First ever project. Simple text editor, inspired by Windows Notepad. |
 
 ### Strategio Projects (Sim 6)
 
@@ -39,15 +39,23 @@ public class Main {
 > [![b.gh]](https://github.com/reinielfc)
 > [![b.gl]](https://gitlab.com/reinielfc)
 
-[repo.school.mdc-compair-php]: https://github.com/reinielfc/mdc-compair-php
-[repo.school.mdc-compair-java]: https://github.com/reinielfc/mdc-compair-java
-[repo.school.mdc-memobook]: https://github.com/reinielfc/mdc-memobook
-[repo.school.xfit]: https://github.com/reinielfc/xfit
 [repo.strategio.fp-sim6-devpros]: https://github.com/strategio-tech/fp-sim6-devpros
 [repo.strategio.lrn-s6-junit-practice-cart]: https://github.com/reinielfc/lrn-s6-junit-practice-cart
 [repo.strategio.lrn-s6-resolve-merge-conflicts]: https://github.com/reinielfc/lrn-s6-resolve-merge-conflicts
 [repo.tool.exif-rename-py]: https://github.com/reinielfc/exif-rename-py
 [repo.tool.tb-filter-rules-gen]: https://github.com/reinielfc/tb-filter-rules-gen
+
+[repo.school.xfit]: https://github.com/reinielfc/xfit
+[repo.school.xfit.last-commit]: https://img.shields.io/date/1654710607?label=&color=white&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNzEuNDMzbW0iIGhlaWdodD0iNzEuNDM4bW0iIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDcxLjQzMyA3MS40MzgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTg3LjM0IC00Mi4yMjMpIiBmaWxsPSIjODA4MDgwIj48cGF0aCBkPSJtLTE4NS40MyA1MC44MzYgNS40MjM1IDUuNDIzNWEzNS43MTkgMzUuNzE5IDAgMSAxLTcuMTQxOSAyNS4zNzYgMy4zNDk5IDMuMzQ5OSAwIDEgMSA2LjY2NDMtMC42ODc0OSAyOS4wMTQgMjkuMDE0IDAgMSAwIDUuMjY3Mi0xOS44OTlsNi4wNjE3IDYuMDYxOGExLjExNTkgMS4xMTU5IDAgMCAxLTAuNzg5NTUgMS45MDZoLTE2LjI3NWExLjExNTkgMS4xMTU5IDAgMCAxLTEuMTE1Mi0xLjExNnYtMTYuMjc1YTEuMTE1OSAxLjExNTkgMCAwIDEgMS45MDYxLTAuNzkwMDZ6bTMyLjY4OCA5LjI1MzNhMy4zNDc4IDMuMzQ3OCAwIDAgMSAzLjM0NzkgMy4zNDc4djEzLjM1Nmw5LjA1MjYgMy42MjQ2YTMuMzQ3OCAzLjM0NzggMCAwIDEtMi40ODY0IDYuMjEzNWwtMTEuMTU5LTQuNDYzOGEzLjM1MjMgMy4zNTIzIDAgMCAxLTIuMTAyNC0zLjEwNjh2LTE1LjYyM2EzLjM0NzggMy4zNDc4IDAgMCAxIDMuMzQ3Ny0zLjM0Nzh6IiBmaWxsPSIjODA4MDgwIiBzdHJva2Utd2lkdGg9IjQuNDYzNyIvPjwvZz48L3N2Zz4K
+
+[repo.school.mdc-compair-java]: https://github.com/reinielfc/mdc-compair-java
+[repo.school.mdc-compair-java.last-commit]: https://img.shields.io/date/1647128061?label=&color=white&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNzEuNDMzbW0iIGhlaWdodD0iNzEuNDM4bW0iIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDcxLjQzMyA3MS40MzgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTg3LjM0IC00Mi4yMjMpIiBmaWxsPSIjODA4MDgwIj48cGF0aCBkPSJtLTE4NS40MyA1MC44MzYgNS40MjM1IDUuNDIzNWEzNS43MTkgMzUuNzE5IDAgMSAxLTcuMTQxOSAyNS4zNzYgMy4zNDk5IDMuMzQ5OSAwIDEgMSA2LjY2NDMtMC42ODc0OSAyOS4wMTQgMjkuMDE0IDAgMSAwIDUuMjY3Mi0xOS44OTlsNi4wNjE3IDYuMDYxOGExLjExNTkgMS4xMTU5IDAgMCAxLTAuNzg5NTUgMS45MDZoLTE2LjI3NWExLjExNTkgMS4xMTU5IDAgMCAxLTEuMTE1Mi0xLjExNnYtMTYuMjc1YTEuMTE1OSAxLjExNTkgMCAwIDEgMS45MDYxLTAuNzkwMDZ6bTMyLjY4OCA5LjI1MzNhMy4zNDc4IDMuMzQ3OCAwIDAgMSAzLjM0NzkgMy4zNDc4djEzLjM1Nmw5LjA1MjYgMy42MjQ2YTMuMzQ3OCAzLjM0NzggMCAwIDEtMi40ODY0IDYuMjEzNWwtMTEuMTU5LTQuNDYzOGEzLjM1MjMgMy4zNTIzIDAgMCAxLTIuMTAyNC0zLjEwNjh2LTE1LjYyM2EzLjM0NzggMy4zNDc4IDAgMCAxIDMuMzQ3Ny0zLjM0Nzh6IiBmaWxsPSIjODA4MDgwIiBzdHJva2Utd2lkdGg9IjQuNDYzNyIvPjwvZz48L3N2Zz4K
+
+[repo.school.mdc-compair-php]: https://github.com/reinielfc/mdc-compair-php
+[repo.school.mdc-compair-php.last-commit]: https://img.shields.io/date/1608205606?label=&color=white&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNzEuNDMzbW0iIGhlaWdodD0iNzEuNDM4bW0iIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDcxLjQzMyA3MS40MzgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTg3LjM0IC00Mi4yMjMpIiBmaWxsPSIjODA4MDgwIj48cGF0aCBkPSJtLTE4NS40MyA1MC44MzYgNS40MjM1IDUuNDIzNWEzNS43MTkgMzUuNzE5IDAgMSAxLTcuMTQxOSAyNS4zNzYgMy4zNDk5IDMuMzQ5OSAwIDEgMSA2LjY2NDMtMC42ODc0OSAyOS4wMTQgMjkuMDE0IDAgMSAwIDUuMjY3Mi0xOS44OTlsNi4wNjE3IDYuMDYxOGExLjExNTkgMS4xMTU5IDAgMCAxLTAuNzg5NTUgMS45MDZoLTE2LjI3NWExLjExNTkgMS4xMTU5IDAgMCAxLTEuMTE1Mi0xLjExNnYtMTYuMjc1YTEuMTE1OSAxLjExNTkgMCAwIDEgMS45MDYxLTAuNzkwMDZ6bTMyLjY4OCA5LjI1MzNhMy4zNDc4IDMuMzQ3OCAwIDAgMSAzLjM0NzkgMy4zNDc4djEzLjM1Nmw5LjA1MjYgMy42MjQ2YTMuMzQ3OCAzLjM0NzggMCAwIDEtMi40ODY0IDYuMjEzNWwtMTEuMTU5LTQuNDYzOGEzLjM1MjMgMy4zNTIzIDAgMCAxLTIuMTAyNC0zLjEwNjh2LTE1LjYyM2EzLjM0NzggMy4zNDc4IDAgMCAxIDMuMzQ3Ny0zLjM0Nzh6IiBmaWxsPSIjODA4MDgwIiBzdHJva2Utd2lkdGg9IjQuNDYzNyIvPjwvZz48L3N2Zz4K
+
+[repo.school.mdc-memobook]: https://github.com/reinielfc/mdc-memobook
+[repo.school.mdc-memobook.last-commit]: https://img.shields.io/date/1597941994?label=&color=white&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNzEuNDMzbW0iIGhlaWdodD0iNzEuNDM4bW0iIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDcxLjQzMyA3MS40MzgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTg3LjM0IC00Mi4yMjMpIiBmaWxsPSIjODA4MDgwIj48cGF0aCBkPSJtLTE4NS40MyA1MC44MzYgNS40MjM1IDUuNDIzNWEzNS43MTkgMzUuNzE5IDAgMSAxLTcuMTQxOSAyNS4zNzYgMy4zNDk5IDMuMzQ5OSAwIDEgMSA2LjY2NDMtMC42ODc0OSAyOS4wMTQgMjkuMDE0IDAgMSAwIDUuMjY3Mi0xOS44OTlsNi4wNjE3IDYuMDYxOGExLjExNTkgMS4xMTU5IDAgMCAxLTAuNzg5NTUgMS45MDZoLTE2LjI3NWExLjExNTkgMS4xMTU5IDAgMCAxLTEuMTE1Mi0xLjExNnYtMTYuMjc1YTEuMTE1OSAxLjExNTkgMCAwIDEgMS45MDYxLTAuNzkwMDZ6bTMyLjY4OCA5LjI1MzNhMy4zNDc4IDMuMzQ3OCAwIDAgMSAzLjM0NzkgMy4zNDc4djEzLjM1Nmw5LjA1MjYgMy42MjQ2YTMuMzQ3OCAzLjM0NzggMCAwIDEtMi40ODY0IDYuMjEzNWwtMTEuMTU5LTQuNDYzOGEzLjM1MjMgMy4zNTIzIDAgMCAxLTIuMTAyNC0zLjEwNjh2LTE1LjYyM2EzLjM0NzggMy4zNDc4IDAgMCAxIDMuMzQ3Ny0zLjM0Nzh6IiBmaWxsPSIjODA4MDgwIiBzdHJva2Utd2lkdGg9IjQuNDYzNyIvPjwvZz48L3N2Zz4K
 
 [b.ansible]:    https://img.shields.io/badge/Ansible-151515?logo=ansible
 [b.arch]:       https://img.shields.io/badge/Arch_Linux-333333?logo=archlinux
@@ -81,3 +89,7 @@ public class Main {
 [b.terraform]:  https://img.shields.io/badge/Terraform-white?logo=terraform&logoColor=7b42bc
 [b.win]:        https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white
 [b.jdk]:        https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white
+
+
+---
+
