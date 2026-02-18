@@ -50,8 +50,8 @@ public class Main {
 [repo.tool.exif-rename-py]: https://github.com/reinielfc/exif-rename-py
 [repo.tool.tb-filter-rules-gen]: https://github.com/reinielfc/tb-filter-rules-gen
 
-[b.tag.exercise]: https://img.shields.io/badge/📄_Exercise-white
-[b.tag.final-project]: https://img.shields.io/badge/🗂️_Final_Project-white
+[b.tag.exercise]: https://img.shields.io/badge/📄_Exercise-blue?style=flat
+[b.tag.final-project]: https://img.shields.io/badge/🗂️_Final_Project-blue?style=flat
 
 [b.ansible]:    https://img.shields.io/badge/Ansible-151515?logo=ansible
 [b.arch]:       https://img.shields.io/badge/Arch_Linux-333333?logo=archlinux
