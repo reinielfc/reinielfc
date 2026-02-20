@@ -1,7 +1,12 @@
-# :wave: Hi, I'm Reiniel!
+# reinielfc
 
-<sup>![b.java] ![b.py] ![b.sql] ![b.html] ![b.css] ![b.js] ![b.bash]</sup>
-<sup>![b.spring] ![b.react] ![b.ng] ![b.docker] ![b.aws] ![b.linux]</sup>
+<sup>[![#email]](mailto:contact@reinielfc.dev) [![#in]](https://linkedin.com/in/reinielfc)</sup>
+<sup>[![#gh]](https://github.com/reinielfc) [![#gl]](https://gitlab.com/reinielfc)</sup>
+
+[#email]: https://img.shields.io/badge/contact@reinielfc.dev-white?logo=proton-mail
+[#in]: https://img.shields.io/badge/LinkedIn-0a66c2
+[#gh]: https://img.shields.io/badge/GitHub-24292f?logo=github
+[#gl]: https://img.shields.io/badge/GitLab-171321?logo=gitlab
 
 ```java
 public class Main {
@@ -12,78 +17,90 @@ public class Main {
 }
 ```
 
-## :open_file_folder: Repositories
+## :books: Repositories
 
-### :mortar_board: School Projects
-
-* :file_folder: [Xfit][repo.school.xfit] ![repo.school.xfit.last-commit] Workout Planner
-* :file_folder: [CompAir (Java)][repo.school.mdc-compair-java] ![repo.school.mdc-compair-java.last-commit] HVAC company website.
-* :file_folder: [CompAir (PHP)][repo.school.mdc-compair-php] ![repo.school.mdc-compair-php.last-commit] HVAC company website.
-* :file_folder: [Jotr][repo.school.mdc-jotr] ![repo.school.mdc-jotr.last-commit] Simple text editor, inspired by Windows Notepad.
+[#exercise]: https://badgen.net/badge/type/exercise?label
+[#final-project]: https://badgen.net/badge/type/final-project?label
 
 ### :briefcase: Strategio Enterprise Simulator
 
-* :file_folder: [Get After It][repo.strategio.get-after-it] ![b.tag.final-project]
-* :file_folder: [JUnit Practice Cart][repo.strategio.junit-practice-cart] ![b.tag.exercise]
-* :file_folder: [Resolving Merge Conficts][repo.strategio.resolve-merge-conflicts] ![b.tag.exercise]
+|                                                      |                                                                 |
+| :--------------------------------------------------- | :-------------------------------------------------------------- |
+| [Get After It][@get-after-it] - Workout Planner      | <sub>![#last-commit.get-after-it] ![#final-project]</sub>       |
+| [JUnit Practice Cart][@junit-practice-cart]          | <sub>![#last-commit.practice-cart] ![#exercise]</sub>           |
+| [Resolving Merge Conficts][@resolve-merge-conflicts] | <sub>![#last-commit.resolve-merge-conflicts] ![#exercise]</sub> |
 
-* * *
+[@get-after-it]: https://github.com/strategio-tech/fp-sim6-devpros
+[@junit-practice-cart]: https://github.com/reinielfc/strategio-junit-practice-cart
+[@resolve-merge-conflicts]: https://github.com/reinielfc/strategio-resolve-merge-conflicts
 
-> [![b.gmail]](mailto:contact@reinielfc.dev)
-> [![b.in]](https://linkedin.com/in/reinielfc)
-> [![b.gh]](https://github.com/reinielfc)
-> [![b.gl]](https://gitlab.com/reinielfc)
+[#last-commit.get-after-it]: https://badgen.net/github/last-commit/strategio-tech/fp-sim6-devpros
+[#last-commit.practice-cart]: https://badgen.net/github/last-commit/reinielfc/strategio-junit-practice-cart
+[#last-commit.resolve-merge-conflicts]: https://badgen.net/github/last-commit/reinielfc/strategio-resolve-merge-conflicts
 
-[repo.school.mdc-compair-java.last-commit]: https://img.shields.io/date/1647128061?label=&color=white&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNzEuNDMzbW0iIGhlaWdodD0iNzEuNDM4bW0iIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDcxLjQzMyA3MS40MzgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTg3LjM0IC00Mi4yMjMpIiBmaWxsPSIjODA4MDgwIj48cGF0aCBkPSJtLTE4NS40MyA1MC44MzYgNS40MjM1IDUuNDIzNWEzNS43MTkgMzUuNzE5IDAgMSAxLTcuMTQxOSAyNS4zNzYgMy4zNDk5IDMuMzQ5OSAwIDEgMSA2LjY2NDMtMC42ODc0OSAyOS4wMTQgMjkuMDE0IDAgMSAwIDUuMjY3Mi0xOS44OTlsNi4wNjE3IDYuMDYxOGExLjExNTkgMS4xMTU5IDAgMCAxLTAuNzg5NTUgMS45MDZoLTE2LjI3NWExLjExNTkgMS4xMTU5IDAgMCAxLTEuMTE1Mi0xLjExNnYtMTYuMjc1YTEuMTE1OSAxLjExNTkgMCAwIDEgMS45MDYxLTAuNzkwMDZ6bTMyLjY4OCA5LjI1MzNhMy4zNDc4IDMuMzQ3OCAwIDAgMSAzLjM0NzkgMy4zNDc4djEzLjM1Nmw5LjA1MjYgMy42MjQ2YTMuMzQ3OCAzLjM0NzggMCAwIDEtMi40ODY0IDYuMjEzNWwtMTEuMTU5LTQuNDYzOGEzLjM1MjMgMy4zNTIzIDAgMCAxLTIuMTAyNC0zLjEwNjh2LTE1LjYyM2EzLjM0NzggMy4zNDc4IDAgMCAxIDMuMzQ3Ny0zLjM0Nzh6IiBmaWxsPSIjODA4MDgwIiBzdHJva2Utd2lkdGg9IjQuNDYzNyIvPjwvZz48L3N2Zz4K
-[repo.school.mdc-compair-java]: https://github.com/reinielfc/mdc-compair-java
-[repo.school.mdc-compair-php.last-commit]: https://img.shields.io/date/1608205606?label=&color=white&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNzEuNDMzbW0iIGhlaWdodD0iNzEuNDM4bW0iIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDcxLjQzMyA3MS40MzgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTg3LjM0IC00Mi4yMjMpIiBmaWxsPSIjODA4MDgwIj48cGF0aCBkPSJtLTE4NS40MyA1MC44MzYgNS40MjM1IDUuNDIzNWEzNS43MTkgMzUuNzE5IDAgMSAxLTcuMTQxOSAyNS4zNzYgMy4zNDk5IDMuMzQ5OSAwIDEgMSA2LjY2NDMtMC42ODc0OSAyOS4wMTQgMjkuMDE0IDAgMSAwIDUuMjY3Mi0xOS44OTlsNi4wNjE3IDYuMDYxOGExLjExNTkgMS4xMTU5IDAgMCAxLTAuNzg5NTUgMS45MDZoLTE2LjI3NWExLjExNTkgMS4xMTU5IDAgMCAxLTEuMTE1Mi0xLjExNnYtMTYuMjc1YTEuMTE1OSAxLjExNTkgMCAwIDEgMS45MDYxLTAuNzkwMDZ6bTMyLjY4OCA5LjI1MzNhMy4zNDc4IDMuMzQ3OCAwIDAgMSAzLjM0NzkgMy4zNDc4djEzLjM1Nmw5LjA1MjYgMy42MjQ2YTMuMzQ3OCAzLjM0NzggMCAwIDEtMi40ODY0IDYuMjEzNWwtMTEuMTU5LTQuNDYzOGEzLjM1MjMgMy4zNTIzIDAgMCAxLTIuMTAyNC0zLjEwNjh2LTE1LjYyM2EzLjM0NzggMy4zNDc4IDAgMCAxIDMuMzQ3Ny0zLjM0Nzh6IiBmaWxsPSIjODA4MDgwIiBzdHJva2Utd2lkdGg9IjQuNDYzNyIvPjwvZz48L3N2Zz4K
-[repo.school.mdc-compair-php]: https://github.com/reinielfc/mdc-compair-php
-[repo.school.mdc-jotr.last-commit]: https://img.shields.io/date/1597941994?label=&color=white&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNzEuNDMzbW0iIGhlaWdodD0iNzEuNDM4bW0iIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDcxLjQzMyA3MS40MzgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTg3LjM0IC00Mi4yMjMpIiBmaWxsPSIjODA4MDgwIj48cGF0aCBkPSJtLTE4NS40MyA1MC44MzYgNS40MjM1IDUuNDIzNWEzNS43MTkgMzUuNzE5IDAgMSAxLTcuMTQxOSAyNS4zNzYgMy4zNDk5IDMuMzQ5OSAwIDEgMSA2LjY2NDMtMC42ODc0OSAyOS4wMTQgMjkuMDE0IDAgMSAwIDUuMjY3Mi0xOS44OTlsNi4wNjE3IDYuMDYxOGExLjExNTkgMS4xMTU5IDAgMCAxLTAuNzg5NTUgMS45MDZoLTE2LjI3NWExLjExNTkgMS4xMTU5IDAgMCAxLTEuMTE1Mi0xLjExNnYtMTYuMjc1YTEuMTE1OSAxLjExNTkgMCAwIDEgMS45MDYxLTAuNzkwMDZ6bTMyLjY4OCA5LjI1MzNhMy4zNDc4IDMuMzQ3OCAwIDAgMSAzLjM0NzkgMy4zNDc4djEzLjM1Nmw5LjA1MjYgMy42MjQ2YTMuMzQ3OCAzLjM0NzggMCAwIDEtMi40ODY0IDYuMjEzNWwtMTEuMTU5LTQuNDYzOGEzLjM1MjMgMy4zNTIzIDAgMCAxLTIuMTAyNC0zLjEwNjh2LTE1LjYyM2EzLjM0NzggMy4zNDc4IDAgMCAxIDMuMzQ3Ny0zLjM0Nzh6IiBmaWxsPSIjODA4MDgwIiBzdHJva2Utd2lkdGg9IjQuNDYzNyIvPjwvZz48L3N2Zz4K
-[repo.school.mdc-jotr]: https://github.com/reinielfc/mdc-jotr
-[repo.school.xfit.last-commit]: https://img.shields.io/date/1654710607?label=&color=white&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iNzEuNDMzbW0iIGhlaWdodD0iNzEuNDM4bW0iIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDcxLjQzMyA3MS40MzgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTg3LjM0IC00Mi4yMjMpIiBmaWxsPSIjODA4MDgwIj48cGF0aCBkPSJtLTE4NS40MyA1MC44MzYgNS40MjM1IDUuNDIzNWEzNS43MTkgMzUuNzE5IDAgMSAxLTcuMTQxOSAyNS4zNzYgMy4zNDk5IDMuMzQ5OSAwIDEgMSA2LjY2NDMtMC42ODc0OSAyOS4wMTQgMjkuMDE0IDAgMSAwIDUuMjY3Mi0xOS44OTlsNi4wNjE3IDYuMDYxOGExLjExNTkgMS4xMTU5IDAgMCAxLTAuNzg5NTUgMS45MDZoLTE2LjI3NWExLjExNTkgMS4xMTU5IDAgMCAxLTEuMTE1Mi0xLjExNnYtMTYuMjc1YTEuMTE1OSAxLjExNTkgMCAwIDEgMS45MDYxLTAuNzkwMDZ6bTMyLjY4OCA5LjI1MzNhMy4zNDc4IDMuMzQ3OCAwIDAgMSAzLjM0NzkgMy4zNDc4djEzLjM1Nmw5LjA1MjYgMy42MjQ2YTMuMzQ3OCAzLjM0NzggMCAwIDEtMi40ODY0IDYuMjEzNWwtMTEuMTU5LTQuNDYzOGEzLjM1MjMgMy4zNTIzIDAgMCAxLTIuMTAyNC0zLjEwNjh2LTE1LjYyM2EzLjM0NzggMy4zNDc4IDAgMCAxIDMuMzQ3Ny0zLjM0Nzh6IiBmaWxsPSIjODA4MDgwIiBzdHJva2Utd2lkdGg9IjQuNDYzNyIvPjwvZz48L3N2Zz4K
-[repo.school.xfit]: https://github.com/reinielfc/xfit
+### :mortar_board: School Projects
 
-[repo.strategio.get-after-it]: https://github.com/strategio-tech/fp-sim6-devpros
-[repo.strategio.junit-practice-cart]: https://github.com/reinielfc/strategio-junit-practice-cart
-[repo.strategio.resolve-merge-conflicts]: https://github.com/reinielfc/strategio-resolve-merge-conflicts
+|                                                                 |                                                             |
+| --------------------------------------------------------------- | ----------------------------------------------------------- |
+| [Xfit][@xfit] - Workout Planner                                 | <sub>![#last-activity.xfit] ![#final-project]</sub>         |
+| [CompAir (Java)][@compair-java] - HVAC company website          | <sub>![#last-activity.compair-java] ![#final-project]</sub> |
+| [CompAir (PHP)][@compair-php] - HVAC company website            | <sub>![#last-activity.compair-php] ![#final-project]</sub>  |
+| [Jotr][@jotr] - Simple text editor, inspired by Windows Notepad | <sub>![#last-activity.jotr] ![#final-project]</sub>         |
 
-[repo.tool.exif-rename-py]: https://github.com/reinielfc/exif-rename-py
-[repo.tool.tb-filter-rules-gen]: https://github.com/reinielfc/tb-filter-rules-gen
+[@xfit]: https://github.com/reinielfc/xfit
+[@compair-java]: https://github.com/reinielfc/mdc-compair-java
+[@compair-php]: https://github.com/reinielfc/mdc-compair-php
+[@jotr]: https://github.com/reinielfc/mdc-jotr
 
-[b.tag.exercise]: https://img.shields.io/badge/📄_Exercise-blue?style=flat
-[b.tag.final-project]: https://img.shields.io/badge/🗂️_Final_Project-blue?style=flat
+[#last-activity.xfit]: https://badgen.net/github/last-commit/reinielfc/xfit/v1.0.1?color=orange&label=last%20activity
+[#last-activity.compair-java]: https://badgen.net/github/last-commit/reinielfc/mdc-compair-java/v0.3.1?color=orange&label=last%20activity
+[#last-activity.compair-php]: https://badgen.net/github/last-commit/reinielfc/mdc-compair-php/v0.1.0?color=orange&label=last%20activity
+[#last-activity.jotr]: https://badgen.net/github/last-commit/reinielfc/mdc-jotr/v0.1.0?color=orange&label=last%20activity
 
-[b.ansible]:    https://img.shields.io/badge/Ansible-151515?logo=ansible
-[b.arch]:       https://img.shields.io/badge/Arch_Linux-333333?logo=archlinux
-[b.aws]:        https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white
-[b.bash]:       https://img.shields.io/badge/Bash-gray?logo=gnu-bash&logoColor=white
-[b.cpp]:        https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white
-[b.css]:        https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white
-[b.docker]:     https://img.shields.io/badge/Docker-white?logo=docker
-[b.gh]:         https://img.shields.io/badge/GitHub-24292f?logo=github
-[b.gh]:         https://img.shields.io/badge/GitHub-24292f?logo=github
-[b.git]:        https://img.shields.io/badge/Git-f0f0e8?logo=git
-[b.gl]:         https://img.shields.io/badge/GitLab-171321?logo=gitlab
-[b.gmail]:      https://img.shields.io/badge/contact%40reinielfc.dev-white?logo=gmail
-[b.gradle]:     https://img.shields.io/badge/Gradle-02303a?logo=gradle
-[b.gsuite]:     https://img.shields.io/badge/Workspace-white?logo=google
-[b.html]:       https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white
-[b.in]:         https://img.shields.io/badge/LinkedIn-in%2Freinielfc-white?logo=linkedin&labelColor=0a66c2
-[b.java]:       https://img.shields.io/badge/Java-ED8B00.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTcuNyIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDE3LjcgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkphdmE8L3RpdGxlPjxwYXRoIGQ9Im02LjU4MzkgMjMuOTI1YzQuMzIyLjI3NjY3IDEwLjk2LS4xNTM1IDExLjExNi0yLjE5ODUuMC4wLS4zMDIxNS43NzUyNy0zLjU3MTkgMS4zOTA5LTMuNjg5LjY5NDIyLTguMjM4OC42MTMxNi0xMC45MzcuMTY4MjUgNjQ3ZS03LTY1ZS02LjU1MjQyLjQ1NzIxIDMuMzkzLjYzOTM3bTQuNjY3NS0yMy45MjVzMi40OTM3IDIuNDk0NS0yLjM2NTEgNi4zMzA0Yy0zLjg5NjMgMy4wNzctLjg4ODQ5IDQuODMxNS0uMDAxNjMgNi44MzYxLTIuMjc0My0yLjA1Mi0zLjk0MzQtMy44NTg0LTIuODIzNi01LjUzOTYgMS42NDM1LTIuNDY3OSA2LjE5NjUtMy42NjQ0IDUuMTkwNC03LjYyNjZtMi43MTQ5IDE3LjU4NGM0LjUwMjctMi4zMzk4IDIuNDIwOS00LjU4ODMuOTY3NzQtNC4yODU0LS4zNTYxNy4wNzQxMy0uNTE0OTcuMTM4MzctLjUxNDk3LjEzODM3cy4xMzIyMi0uMjA3MTIuMzg0NzUtLjI5Njc4YzIuODc0Ny0xLjAxMDYgNS4wODU2IDIuOTgwOC0uOTI3OTYgNC41NjE3LjAgNjRlLTYuMDY5NjctLjA2MjI0LjA5MDUtLjExNzkybS03LjgyNDYtNC4zNzM1cy00LjM2MTkgMS4wMzYtMS41NDQ3IDEuNDEyM2MxLjE4OTUuMTU5MjYgMy41NjA4LjEyMzIyIDUuNzY5Ni0uMDYxODQgMS44MDUyLS4xNTIyNyAzLjYxNzctLjQ3NjAzIDMuNjE3Ny0uNDc2MDNzLS42MzY1Mi4yNzI1OS0xLjA5Ny41ODcwM2MtNC40Mjk1IDEuMTY0OS0xMi45ODcuNjIzLTEwLjUyMy0uNTY4NiAyLjA4MzMtMS4wMDcxIDMuNzc3Mi0uODkyNzcgMy43NzcyLS44OTI3N20xMC4wMzggNy4yOTM0cy42Nzg3LjU1OTIxLS43NDc0NS45OTE4N2MtMi43MTE5LjgyMTU0LTExLjI4NyAxLjA2OTYtMTMuNjY5LjAzMjczLS44NTYzNC0uMzcyNTMuNzQ5NTItLjg4OTUgMS4yNTQ3LS45OTgwMi41MjY4LS4xMTQyMy44Mjc4NS0uMDkyOTUuODI3ODUtLjA5Mjk1LS45NTIzMy0uNjcwODYtNi4xNTU0IDEuMzE3My0yLjY0MjkgMS44ODY3IDkuNTc4NSAxLjU1MzUgMTcuNDYyLS42OTk1MiAxNC45NzctMS44MjAzbS02LjIxMzktOS4wMjgyYzEuMTU3NiAxLjMzMjgtLjMwNDE2IDIuNTMyMi0uMzA0MTYgMi41MzIyczIuOTM5NC0xLjUxNzQgMS41ODk0LTMuNDE3NmMtMS4yNjA4LTEuNzcyLTIuMjI3Ny0yLjY1MjUgMy4wMDY2LTUuNjg4Mi4wLjAtOC4yMTYyIDIuMDUyLTQuMjkxOSA2LjU3MzVtLTQuODM5OCA0LjQ1N3MtMS4wMjg2Ljc2MTQzLjU0MjM0LjkyMzkxYzIuMDMxNS4yMDk1OCAzLjYzNTkuMjI2NzMgNi40MTItLjMwNzg1LjAuMC4zODM5OC4zODkyOC45ODc3NS42MDIxNy01LjY4MDQgMS42NjEtMTIuMDA3LjEzMDk5LTcuOTQyMi0xLjIxODNtLjU3NDE2IDIuNjI3NnMtLjkxNzE0LjUzMzM0LjY1MjY5LjcxMzgxYzEuOTAxOC4yMTY5NiAyLjg3MzguMTg1ODQgNC45Njk2LS4yMTA4Mi4wLjAuNTUxLjM0NTQ5IDEuMzIwNS42NDQ3My00LjY5ODIgMi4wMTM2LTEwLjYzMy0uMTE2NjQtNi45NDI4LTEuMTQ3NyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==
-[b.java.logo]:  https://img.shields.io/badge/-ED8B00.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTcuNyIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDE3LjcgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkphdmE8L3RpdGxlPjxwYXRoIGQ9Im02LjU4MzkgMjMuOTI1YzQuMzIyLjI3NjY3IDEwLjk2LS4xNTM1IDExLjExNi0yLjE5ODUuMC4wLS4zMDIxNS43NzUyNy0zLjU3MTkgMS4zOTA5LTMuNjg5LjY5NDIyLTguMjM4OC42MTMxNi0xMC45MzcuMTY4MjUgNjQ3ZS03LTY1ZS02LjU1MjQyLjQ1NzIxIDMuMzkzLjYzOTM3bTQuNjY3NS0yMy45MjVzMi40OTM3IDIuNDk0NS0yLjM2NTEgNi4zMzA0Yy0zLjg5NjMgMy4wNzctLjg4ODQ5IDQuODMxNS0uMDAxNjMgNi44MzYxLTIuMjc0My0yLjA1Mi0zLjk0MzQtMy44NTg0LTIuODIzNi01LjUzOTYgMS42NDM1LTIuNDY3OSA2LjE5NjUtMy42NjQ0IDUuMTkwNC03LjYyNjZtMi43MTQ5IDE3LjU4NGM0LjUwMjctMi4zMzk4IDIuNDIwOS00LjU4ODMuOTY3NzQtNC4yODU0LS4zNTYxNy4wNzQxMy0uNTE0OTcuMTM4MzctLjUxNDk3LjEzODM3cy4xMzIyMi0uMjA3MTIuMzg0NzUtLjI5Njc4YzIuODc0Ny0xLjAxMDYgNS4wODU2IDIuOTgwOC0uOTI3OTYgNC41NjE3LjAgNjRlLTYuMDY5NjctLjA2MjI0LjA5MDUtLjExNzkybS03LjgyNDYtNC4zNzM1cy00LjM2MTkgMS4wMzYtMS41NDQ3IDEuNDEyM2MxLjE4OTUuMTU5MjYgMy41NjA4LjEyMzIyIDUuNzY5Ni0uMDYxODQgMS44MDUyLS4xNTIyNyAzLjYxNzctLjQ3NjAzIDMuNjE3Ny0uNDc2MDNzLS42MzY1Mi4yNzI1OS0xLjA5Ny41ODcwM2MtNC40Mjk1IDEuMTY0OS0xMi45ODcuNjIzLTEwLjUyMy0uNTY4NiAyLjA4MzMtMS4wMDcxIDMuNzc3Mi0uODkyNzcgMy43NzcyLS44OTI3N20xMC4wMzggNy4yOTM0cy42Nzg3LjU1OTIxLS43NDc0NS45OTE4N2MtMi43MTE5LjgyMTU0LTExLjI4NyAxLjA2OTYtMTMuNjY5LjAzMjczLS44NTYzNC0uMzcyNTMuNzQ5NTItLjg4OTUgMS4yNTQ3LS45OTgwMi41MjY4LS4xMTQyMy44Mjc4NS0uMDkyOTUuODI3ODUtLjA5Mjk1LS45NTIzMy0uNjcwODYtNi4xNTU0IDEuMzE3My0yLjY0MjkgMS44ODY3IDkuNTc4NSAxLjU1MzUgMTcuNDYyLS42OTk1MiAxNC45NzctMS44MjAzbS02LjIxMzktOS4wMjgyYzEuMTU3NiAxLjMzMjgtLjMwNDE2IDIuNTMyMi0uMzA0MTYgMi41MzIyczIuOTM5NC0xLjUxNzQgMS41ODk0LTMuNDE3NmMtMS4yNjA4LTEuNzcyLTIuMjI3Ny0yLjY1MjUgMy4wMDY2LTUuNjg4Mi4wLjAtOC4yMTYyIDIuMDUyLTQuMjkxOSA2LjU3MzVtLTQuODM5OCA0LjQ1N3MtMS4wMjg2Ljc2MTQzLjU0MjM0LjkyMzkxYzIuMDMxNS4yMDk1OCAzLjYzNTkuMjI2NzMgNi40MTItLjMwNzg1LjAuMC4zODM5OC4zODkyOC45ODc3NS42MDIxNy01LjY4MDQgMS42NjEtMTIuMDA3LjEzMDk5LTcuOTQyMi0xLjIxODNtLjU3NDE2IDIuNjI3NnMtLjkxNzE0LjUzMzM0LjY1MjY5LjcxMzgxYzEuOTAxOC4yMTY5NiAyLjg3MzguMTg1ODQgNC45Njk2LS4yMTA4Mi4wLjAuNTUxLjM0NTQ5IDEuMzIwNS42NDQ3My00LjY5ODIgMi4wMTM2LTEwLjYzMy0uMTE2NjQtNi45NDI4LTEuMTQ3NyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==
-[b.jdk]:        https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white
-[b.jenkins]:    https://img.shields.io/badge/Jenkins-white?logo=jenkins&logoColor=212529
-[b.js]:         https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E
-[b.k8]:         https://img.shields.io/badge/Kubernetes-white?logo=kubernetes
-[b.linux]:      https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black
-[b.mvn]:        https://img.shields.io/badge/Maven-282661?logo=apachemaven
-[b.ng]:         https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white
-[b.php]:        https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white
-[b.php.logo]:    https://img.shields.io/badge/-777BB4?logo=php&logoColor=white
-[b.pwsh]:       https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white
-[b.py]:         https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white
-[b.react]:      https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB
-[b.spring]:     https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white
-[b.sql]:        https://img.shields.io/badge/MySQL-2b5d80?logo=mysql&logoColor=white
-[b.terraform]:  https://img.shields.io/badge/Terraform-white?logo=terraform&logoColor=7b42bc
-[b.win]:        https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white
+<!--
+
+### :card_index_dividers: Personal Projects
+
+|                                                            |             |
+| ---------------------------------------------------------- | ----------- |
+| [Exif Rename][@exif-rename-py]                             | <sub>![#last-commit.exif-rename-py]</sub> |
+| [Thunderbird Filter Rules Generator][@tb-filter-rules-gen] | <sub></sub> |
+
+[@exif-rename-py]: https://github.com/reinielfc/exif-rename-py
+[@tb-filter-rules-gen]: https://github.com/reinielfc/tb-filter-rules-gen
+
+[#last-commit.exif-rename-py]: https://badgen.net/github/last-commit/reinielfc/exif-rename-py
+[#last-commit.tb-filter-rules-gen]: https://badgen.net/github/last-commit/reinielfc/tb-filter-rules-gen
+
+---
+
+[#java]: https://badgen.net/badge/icon/Java?icon=java&label&labelColor=ED8B00&color=ED8B00
+[#py]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white
+[#ansible]:    https://img.shields.io/badge/Ansible-151515?logo=ansible
+[#arch]:       https://img.shields.io/badge/Arch_Linux-333333?logo=archlinux
+[#aws]:        https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white
+[#bash]:       https://img.shields.io/badge/Bash-gray?logo=gnu-bash&logoColor=white
+[#cpp]:        https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white
+[#css]:        https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white
+[#docker]:     https://img.shields.io/badge/Docker-white?logo=docker
+[#gh]:         https://img.shields.io/badge/GitHub-24292f?logo=github
+[#git]:        https://img.shields.io/badge/Git-f0f0e8?logo=git
+
+[#gradle]:     https://img.shields.io/badge/Gradle-02303a?logo=gradle
+[#gsuite]:     https://img.shields.io/badge/Workspace-white?logo=google
+[#html]:       https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white
+[#jdk]:        https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white
+[#jenkins]:    https://img.shields.io/badge/Jenkins-white?logo=jenkins&logoColor=212529
+[#js]:         https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E
+[#k8]:         https://img.shields.io/badge/Kubernetes-white?logo=kubernetes
+[#linux]:      https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black
+[#mvn]:        https://img.shields.io/badge/Maven-282661?logo=apachemaven
+[#ng]:         https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white
+[#php]:        https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white
+[#php.logo]:   https://img.shields.io/badge/-777BB4?logo=php&logoColor=white
+[#pwsh]:       https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white
+[#react]:      https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB
+[#spring]:     https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white
+[#sql]:        https://img.shields.io/badge/MySQL-2b5d80?logo=mysql&logoColor=white
+[#terraform]:  https://img.shields.io/badge/Terraform-white?logo=terraform&logoColor=7b42bc
+[#win]:        https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white -->
