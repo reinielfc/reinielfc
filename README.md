@@ -4,9 +4,9 @@
 <sup>[![#gh]](https://github.com/reinielfc) [![#gl]](https://gitlab.com/reinielfc)</sup>
 
 [#email]: https://img.shields.io/badge/contact@reinielfc.dev-white?logo=proton-mail
-[#in]: https://img.shields.io/badge/LinkedIn-0a66c2
-[#gh]: https://img.shields.io/badge/GitHub-24292f?logo=github
-[#gl]: https://img.shields.io/badge/GitLab-171321?logo=gitlab
+[#in]:    https://img.shields.io/badge/LinkedIn-0a66c2
+[#gh]:    https://img.shields.io/badge/GitHub-24292f?logo=github
+[#gl]:    https://img.shields.io/badge/GitLab-171321?logo=gitlab
 
 ```java
 public class Main {
@@ -19,60 +19,72 @@ public class Main {
 
 ## :books: Repositories
 
-[#exercise]: https://badgen.net/badge/type/exercise?label
+[#exercise]:      https://badgen.net/badge/type/exercise?label
 [#final-project]: https://badgen.net/badge/type/final-project?label
+
+### :hammer_and_wrench: Tools
+
+|                                                            |                                                |
+| ---------------------------------------------------------- | ---------------------------------------------- |
+| [Exif Rename][@exif-rename-py]                             | <sub>![#last-commit.exif-rename-py]</sub>      |
+| [Thunderbird Filter Rules Generator][@tb-filter-rules-gen] | <sub>![#last-commit.tb-filter-rules-gen]</sub> |
+
+[@exif-rename-py]:      https://github.com/reinielfc/exif-rename-py
+[@tb-filter-rules-gen]: https://github.com/reinielfc/tb-filter-rules-gen
+
+[#last-commit.exif-rename-py]:      https://badgen.net/github/last-commit/reinielfc/exif-rename-py/main
+[#last-commit.tb-filter-rules-gen]: https://badgen.net/github/last-commit/reinielfc/tb-filter-rules-gen
 
 ### :briefcase: Strategio Enterprise Simulator
 
 |                                                      |                                                                 |
 | :--------------------------------------------------- | :-------------------------------------------------------------- |
-| [Get After It][@get-after-it] - Workout Planner      | <sub>![#last-commit.get-after-it] ![#final-project]</sub>       |
-| [JUnit Practice Cart][@junit-practice-cart]          | <sub>![#last-commit.practice-cart] ![#exercise]</sub>           |
-| [Resolving Merge Conficts][@resolve-merge-conflicts] | <sub>![#last-commit.resolve-merge-conflicts] ![#exercise]</sub> |
+| [Get After It][@get-after-it] - Workout Planner      | <sub>![#final-project] ![#last-commit.get-after-it]</sub>       |
+| [JUnit Practice Cart][@junit-practice-cart]          | <sub>![#exercise] ![#last-commit.practice-cart]</sub>           |
+| [Resolving Merge Conficts][@resolve-merge-conflicts] | <sub>![#exercise] ![#last-commit.resolve-merge-conflicts]</sub> |
 
-[@get-after-it]: https://github.com/strategio-tech/fp-sim6-devpros
-[@junit-practice-cart]: https://github.com/reinielfc/strategio-junit-practice-cart
+[@get-after-it]:            https://github.com/strategio-tech/fp-sim6-devpros
+[@junit-practice-cart]:     https://github.com/reinielfc/strategio-junit-practice-cart
 [@resolve-merge-conflicts]: https://github.com/reinielfc/strategio-resolve-merge-conflicts
 
-[#last-commit.get-after-it]: https://badgen.net/github/last-commit/strategio-tech/fp-sim6-devpros
-[#last-commit.practice-cart]: https://badgen.net/github/last-commit/reinielfc/strategio-junit-practice-cart
+[#last-commit.get-after-it]:            https://badgen.net/github/last-commit/strategio-tech/fp-sim6-devpros
+[#last-commit.practice-cart]:           https://badgen.net/github/last-commit/reinielfc/strategio-junit-practice-cart
 [#last-commit.resolve-merge-conflicts]: https://badgen.net/github/last-commit/reinielfc/strategio-resolve-merge-conflicts
 
 ### :mortar_board: School Projects
 
 |                                                                 |                                                             |
 | --------------------------------------------------------------- | ----------------------------------------------------------- |
-| [Xfit][@xfit] - Workout Planner                                 | <sub>![#last-activity.xfit] ![#final-project]</sub>         |
-| [CompAir (Java)][@compair-java] - HVAC company website          | <sub>![#last-activity.compair-java] ![#final-project]</sub> |
-| [CompAir (PHP)][@compair-php] - HVAC company website            | <sub>![#last-activity.compair-php] ![#final-project]</sub>  |
-| [Jotr][@jotr] - Simple text editor, inspired by Windows Notepad | <sub>![#last-activity.jotr] ![#final-project]</sub>         |
+| [Xfit][@xfit] - Workout Planner                                 | <sub>![#final-project] ![#last-activity.xfit]</sub>         |
+| [CompAir (Java)][@compair-java] - HVAC company website          | <sub>![#final-project] ![#last-activity.compair-java]</sub> |
+| [CompAir (PHP)][@compair-php] - HVAC company website            | <sub>![#final-project] ![#last-activity.compair-php]</sub>  |
+| [Jotr][@jotr] - Simple text editor, inspired by Windows Notepad | <sub>![#final-project] ![#last-activity.jotr]</sub>         |
 
-[@xfit]: https://github.com/reinielfc/xfit
+[@xfit]:         https://github.com/reinielfc/xfit
 [@compair-java]: https://github.com/reinielfc/mdc-compair-java
-[@compair-php]: https://github.com/reinielfc/mdc-compair-php
-[@jotr]: https://github.com/reinielfc/mdc-jotr
+[@compair-php]:  https://github.com/reinielfc/mdc-compair-php
+[@jotr]:         https://github.com/reinielfc/mdc-jotr
 
-[#last-activity.xfit]: https://badgen.net/github/last-commit/reinielfc/xfit/v1.0.1?color=orange&label=last%20activity
+[#last-activity.xfit]:         https://badgen.net/github/last-commit/reinielfc/xfit/v1.0.1?color=orange&label=last%20activity
 [#last-activity.compair-java]: https://badgen.net/github/last-commit/reinielfc/mdc-compair-java/v0.3.1?color=orange&label=last%20activity
-[#last-activity.compair-php]: https://badgen.net/github/last-commit/reinielfc/mdc-compair-php/v0.1.0?color=orange&label=last%20activity
-[#last-activity.jotr]: https://badgen.net/github/last-commit/reinielfc/mdc-jotr/v0.1.0?color=orange&label=last%20activity
+[#last-activity.compair-php]:  https://badgen.net/github/last-commit/reinielfc/mdc-compair-php/v0.1.0?color=orange&label=last%20activity
+[#last-activity.jotr]:         https://badgen.net/github/last-commit/reinielfc/mdc-jotr/v0.1.0?color=orange&label=last%20activity
+
+### :notebook: Notebooks
+
+|                                                                                                                                                      |                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [Pluralsight / Java EE7: Getting Started][@pluralsight-jee7-getting-started] / [Bookstore Backend][@pluralsight-jee7-getting-started-bookstore-back] | <sub>![#last-commit.pluralsight-jee7-getting-started]</sub>      |
+| [Pluralsight / Working with Classes and Interfaces in Java 11][@pluralsight-java11-classes-interfaces]                                               | <sub>![#last-commit.pluralsight-java11-classes-interfaces]</sub> |
+
+[@pluralsight-jee7-getting-started]: https://github.com/reinielfc/pluralsight-jee7-getting-started
+[@pluralsight-jee7-getting-started-bookstore-back]: https://github.com/reinielfc/pluralsight-jee7-getting-started-bookstore-back
+[@pluralsight-java11-classes-interfaces]: https://github.com/reinielfc/pluralsight-java11-classes-interfaces
+
+[#last-commit.pluralsight-jee7-getting-started]: https://badgen.net/github/last-commit/reinielfc/pluralsight-jee7-getting-started
+[#last-commit.pluralsight-java11-classes-interfaces]: https://badgen.net/github/last-commit/reinielfc/pluralsight-java11-classes-interfaces
 
 <!--
-
-### :card_index_dividers: Personal Projects
-
-|                                                            |             |
-| ---------------------------------------------------------- | ----------- |
-| [Exif Rename][@exif-rename-py]                             | <sub>![#last-commit.exif-rename-py]</sub> |
-| [Thunderbird Filter Rules Generator][@tb-filter-rules-gen] | <sub></sub> |
-
-[@exif-rename-py]: https://github.com/reinielfc/exif-rename-py
-[@tb-filter-rules-gen]: https://github.com/reinielfc/tb-filter-rules-gen
-
-[#last-commit.exif-rename-py]: https://badgen.net/github/last-commit/reinielfc/exif-rename-py
-[#last-commit.tb-filter-rules-gen]: https://badgen.net/github/last-commit/reinielfc/tb-filter-rules-gen
-
----
 
 [#java]: https://badgen.net/badge/icon/Java?icon=java&label&labelColor=ED8B00&color=ED8B00
 [#py]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white
