@@ -19,6 +19,7 @@ public class Main {
 
 ## :books: Repositories
 
+[#archive]:       https://badgen.net/badge/type/🗄️?label
 [#exercise]:      https://badgen.net/badge/type/exercise?label
 [#final-project]: https://badgen.net/badge/type/final-project?label
 
@@ -32,8 +33,8 @@ public class Main {
 [@exif-rename-py]:      https://github.com/reinielfc/exif-rename-py
 [@tb-filter-rules-gen]: https://github.com/reinielfc/tb-filter-rules-gen
 
-[#last-commit.exif-rename-py]:      https://badgen.net/github/last-commit/reinielfc/exif-rename-py/main
-[#last-commit.tb-filter-rules-gen]: https://badgen.net/github/last-commit/reinielfc/tb-filter-rules-gen
+[#last-commit.exif-rename-py]:      https://badgen.net/github/last-commit/reinielfc/exif-rename-py/main?color=orange
+[#last-commit.tb-filter-rules-gen]: https://badgen.net/github/last-commit/reinielfc/tb-filter-rules-gen?color=orange
 
 ### :briefcase: Strategio Enterprise Simulator
 
@@ -47,9 +48,9 @@ public class Main {
 [@junit-practice-cart]:     https://github.com/reinielfc/strategio-junit-practice-cart
 [@resolve-merge-conflicts]: https://github.com/reinielfc/strategio-resolve-merge-conflicts
 
-[#last-commit.get-after-it]:            https://badgen.net/github/last-commit/strategio-tech/fp-sim6-devpros
-[#last-commit.practice-cart]:           https://badgen.net/github/last-commit/reinielfc/strategio-junit-practice-cart
-[#last-commit.resolve-merge-conflicts]: https://badgen.net/github/last-commit/reinielfc/strategio-resolve-merge-conflicts
+[#last-commit.get-after-it]:            https://badgen.net/github/last-commit/strategio-tech/fp-sim6-devpros?color=orange
+[#last-commit.practice-cart]:           https://badgen.net/github/last-commit/reinielfc/strategio-junit-practice-cart?color=orange
+[#last-commit.resolve-merge-conflicts]: https://badgen.net/github/last-commit/reinielfc/strategio-resolve-merge-conflicts?color=orange
 
 ### :mortar_board: School Projects
 
@@ -65,10 +66,12 @@ public class Main {
 [@compair-php]:  https://github.com/reinielfc/mdc-compair-php
 [@jotr]:         https://github.com/reinielfc/mdc-jotr
 
-[#last-activity.xfit]:         https://badgen.net/github/last-commit/reinielfc/xfit/v1.0.1?color=orange&label=last%20activity
-[#last-activity.compair-java]: https://badgen.net/github/last-commit/reinielfc/mdc-compair-java/v0.3.1?color=orange&label=last%20activity
-[#last-activity.compair-php]:  https://badgen.net/github/last-commit/reinielfc/mdc-compair-php/v0.1.0?color=orange&label=last%20activity
-[#last-activity.jotr]:         https://badgen.net/github/last-commit/reinielfc/mdc-jotr/v0.1.0?color=orange&label=last%20activity
+[#last-activity.xfit]:         https://badgen.net/github/last-commit/reinielfc/xfit/v1.0.1?color=orange
+[#last-activity.compair-java]: https://badgen.net/github/last-commit/reinielfc/mdc-compair-java/v0.3.1?color=orange
+[#last-activity.compair-php]:  https://badgen.net/github/last-commit/reinielfc/mdc-compair-php/v0.1.0?color=orange
+[#last-activity.jotr]:         https://badgen.net/github/last-commit/reinielfc/mdc-jotr/v0.1.0?color=orange
+
+
 
 ### :notebook: Notebooks
 
@@ -76,13 +79,16 @@ public class Main {
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | [Pluralsight / Java EE7: Getting Started][@pluralsight-jee7-getting-started] / [Bookstore Backend][@pluralsight-jee7-getting-started-bookstore-back] | <sub>![#last-commit.pluralsight-jee7-getting-started]</sub>      |
 | [Pluralsight / Working with Classes and Interfaces in Java 11][@pluralsight-java11-classes-interfaces]                                               | <sub>![#last-commit.pluralsight-java11-classes-interfaces]</sub> |
+| [Daily Code Buffer / Spring Boot Tutorial][@dcb-spring-boot-tutorial]                                                                                | <sub>![#last-commit.dcb-spring-boot-tutorial]</sub>              |
 
 [@pluralsight-jee7-getting-started]: https://github.com/reinielfc/pluralsight-jee7-getting-started
 [@pluralsight-jee7-getting-started-bookstore-back]: https://github.com/reinielfc/pluralsight-jee7-getting-started-bookstore-back
 [@pluralsight-java11-classes-interfaces]: https://github.com/reinielfc/pluralsight-java11-classes-interfaces
+[@dcb-spring-boot-tutorial]: https://github.com/reinielfc/dcb-spring-boot-tutorial
 
-[#last-commit.pluralsight-jee7-getting-started]: https://badgen.net/github/last-commit/reinielfc/pluralsight-jee7-getting-started
-[#last-commit.pluralsight-java11-classes-interfaces]: https://badgen.net/github/last-commit/reinielfc/pluralsight-java11-classes-interfaces
+[#last-commit.pluralsight-jee7-getting-started]: https://badgen.net/github/last-commit/reinielfc/pluralsight-jee7-getting-started?color=orange
+[#last-commit.pluralsight-java11-classes-interfaces]: https://badgen.net/github/last-commit/reinielfc/pluralsight-java11-classes-interfaces?color=orange
+[#last-commit.dcb-spring-boot-tutorial]: https://badgen.net/github/last-commit/reinielfc/dcb-spring-boot-tutorial?color=orange
 
 <!--
 
