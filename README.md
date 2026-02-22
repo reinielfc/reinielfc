@@ -62,7 +62,7 @@ public class Main {
 | [Xfit][@xfit] - Workout Planner                                 | <sub>![#final-project] ![#last-updated.xfit]</sub>             |
 | [CompAir (Java)][@compair-java] - HVAC company website          | <sub>![#final-project] ![#last-updated.compair-java]</sub>     |
 | [CompAir (PHP)][@compair-php] - HVAC company website            | <sub>![#final-project] ![#last-updated.compair-php]</sub>      |
-| [New Project (Java)][@compair-php] - Unfinished Project         | <sub>![#final-project] ![#last-updated.new-project-java]</sub> |
+| [New Project (Java)][@new-project-java] - Unfinished Project    | <sub>![#final-project] ![#last-updated.new-project-java]</sub> |
 | [Jotr][@jotr] - Simple text editor, inspired by Windows Notepad | <sub>![#final-project] ![#last-updated.jotr]</sub>             |
 
 [@xfit]:             https://github.com/reinielfc/xfit
