@@ -19,22 +19,25 @@ public class Main {
 
 ## :books: Repositories
 
-[#archive]:       https://badgen.net/badge/type/🗄️?label
-[#exercise]:      https://badgen.net/badge/type/exercise?label
-[#final-project]: https://badgen.net/badge/type/final-project?label
+[#course]:      https://badgen.net/badge/type/%23course?label
+[#exercise]:      https://badgen.net/badge/type/%23exercise?label
+[#final-project]: https://badgen.net/badge/type/%23final-project?label
 
 ### :hammer_and_wrench: Tools
 
-|                                                            |                                                |
-| ---------------------------------------------------------- | ---------------------------------------------- |
-| [Exif Rename][@exif-rename-py]                             | <sub>![#last-commit.exif-rename-py]</sub>      |
-| [Thunderbird Filter Rules Generator][@tb-filter-rules-gen] | <sub>![#last-commit.tb-filter-rules-gen]</sub> |
+|                                                                     |                                                |
+| ------------------------------------------------------------------- | ---------------------------------------------- |
+| [EXIF Rename][@exif-rename-py] - Rename files using their EXIF data | <sub>![#last-commit.exif-rename-py]</sub>      |
+| [Thunderbird Filter Rules Generator][@tb-filter-rules-gen]          | <sub>![#last-commit.tb-filter-rules-gen]</sub> |
+| [Hiccup Remedy][@exif-rename-py] - Czkawka Duplicate Finder Wrapper | <sub>![#last-updated.hiccup-remedy]</sub>      |
 
 [@exif-rename-py]:      https://github.com/reinielfc/exif-rename-py
 [@tb-filter-rules-gen]: https://github.com/reinielfc/tb-filter-rules-gen
+[@hiccup-remedy]:       https://github.com/reinielfc/hiccup-remedy
 
 [#last-commit.exif-rename-py]:      https://badgen.net/github/last-commit/reinielfc/exif-rename-py/main?color=orange
 [#last-commit.tb-filter-rules-gen]: https://badgen.net/github/last-commit/reinielfc/tb-filter-rules-gen?color=orange
+[#last-updated.hiccup-remedy]:       https://badgen.net/github/last-commit/reinielfc/hiccup-remedy/v0.1.0?label=last%20updated&color=orange
 
 ### :briefcase: Strategio Enterprise Simulator
 
@@ -54,32 +57,34 @@ public class Main {
 
 ### :mortar_board: School Projects
 
-|                                                                 |                                                             |
-| --------------------------------------------------------------- | ----------------------------------------------------------- |
-| [Xfit][@xfit] - Workout Planner                                 | <sub>![#final-project] ![#last-activity.xfit]</sub>         |
-| [CompAir (Java)][@compair-java] - HVAC company website          | <sub>![#final-project] ![#last-activity.compair-java]</sub> |
-| [CompAir (PHP)][@compair-php] - HVAC company website            | <sub>![#final-project] ![#last-activity.compair-php]</sub>  |
-| [Jotr][@jotr] - Simple text editor, inspired by Windows Notepad | <sub>![#final-project] ![#last-activity.jotr]</sub>         |
+|                                                                 |                                                                |
+| --------------------------------------------------------------- | -------------------------------------------------------------- |
+| [Xfit][@xfit] - Workout Planner                                 | <sub>![#final-project] ![#last-updated.xfit]</sub>             |
+| [CompAir (Java)][@compair-java] - HVAC company website          | <sub>![#final-project] ![#last-updated.compair-java]</sub>     |
+| [CompAir (PHP)][@compair-php] - HVAC company website            | <sub>![#final-project] ![#last-updated.compair-php]</sub>      |
+| [New Project (Java)][@compair-php] - Unfinished Project         | <sub>![#final-project] ![#last-updated.new-project-java]</sub> |
+| [Jotr][@jotr] - Simple text editor, inspired by Windows Notepad | <sub>![#final-project] ![#last-updated.jotr]</sub>             |
 
-[@xfit]:         https://github.com/reinielfc/xfit
-[@compair-java]: https://github.com/reinielfc/mdc-compair-java
-[@compair-php]:  https://github.com/reinielfc/mdc-compair-php
-[@jotr]:         https://github.com/reinielfc/mdc-jotr
+[@xfit]:             https://github.com/reinielfc/xfit
+[@compair-java]:     https://github.com/reinielfc/mdc-compair-java
+[@compair-php]:      https://github.com/reinielfc/mdc-compair-php
+[@new-project-java]: https://github.com/reinielfc/mdc-new-project-java
+[@jotr]:             https://github.com/reinielfc/mdc-jotr
 
-[#last-activity.xfit]:         https://badgen.net/github/last-commit/reinielfc/xfit/v1.0.1?color=orange
-[#last-activity.compair-java]: https://badgen.net/github/last-commit/reinielfc/mdc-compair-java/v0.3.1?color=orange
-[#last-activity.compair-php]:  https://badgen.net/github/last-commit/reinielfc/mdc-compair-php/v0.1.0?color=orange
-[#last-activity.jotr]:         https://badgen.net/github/last-commit/reinielfc/mdc-jotr/v0.1.0?color=orange
-
+[#last-updated.xfit]:              https://badgen.net/github/last-commit/reinielfc/xfit/v1.0.1?label=last%20updated&color=orange
+[#last-updated.compair-java]:      https://badgen.net/github/last-commit/reinielfc/mdc-compair-java/v0.3.1?label=last%20updated&color=orange
+[#last-updated.compair-php]:       https://badgen.net/github/last-commit/reinielfc/mdc-compair-php/v0.1.0?label=last%20updated&color=orange
+[#last-updated.new-project-java]:  https://badgen.net/github/last-commit/reinielfc/mdc-new-project-java/v0.1.0?label=last%20updated&color=orange
+[#last-updated.jotr]:              https://badgen.net/github/last-commit/reinielfc/mdc-jotr/v0.1.0?label=last%20updated&color=orange
 
 
 ### :notebook: Notebooks
 
-|                                                                                                                                                      |                                                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| [Pluralsight / Java EE7: Getting Started][@pluralsight-jee7-getting-started] / [Bookstore Backend][@pluralsight-jee7-getting-started-bookstore-back] | <sub>![#last-commit.pluralsight-jee7-getting-started]</sub>      |
-| [Pluralsight / Working with Classes and Interfaces in Java 11][@pluralsight-java11-classes-interfaces]                                               | <sub>![#last-commit.pluralsight-java11-classes-interfaces]</sub> |
-| [Daily Code Buffer / Spring Boot Tutorial][@dcb-spring-boot-tutorial]                                                                                | <sub>![#last-commit.dcb-spring-boot-tutorial]</sub>              |
+|                                                                                                                                                      |                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [Pluralsight / Java EE7: Getting Started][@pluralsight-jee7-getting-started] / [Bookstore Backend][@pluralsight-jee7-getting-started-bookstore-back] | <sub>![#course] ![#last-commit.pluralsight-jee7-getting-started]</sub>      |
+| [Pluralsight / Working with Classes and Interfaces in Java 11][@pluralsight-java11-classes-interfaces]                                               | <sub>![#course] ![#last-commit.pluralsight-java11-classes-interfaces]</sub> |
+| [Daily Code Buffer / Spring Boot Tutorial][@dcb-spring-boot-tutorial]                                                                                | <sub>![#course] ![#last-commit.dcb-spring-boot-tutorial]</sub>              |
 
 [@pluralsight-jee7-getting-started]: https://github.com/reinielfc/pluralsight-jee7-getting-started
 [@pluralsight-jee7-getting-started-bookstore-back]: https://github.com/reinielfc/pluralsight-jee7-getting-started-bookstore-back
