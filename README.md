@@ -23,18 +23,7 @@ public class Main {
 [#exercise]:      https://badgen.net/badge/type/%23exercise?label
 [#final-project]: https://badgen.net/badge/type/%23final-project?label
 
-|                                         |                                             |
-| --------------------------------------- | ------------------------------------------- |
-| [Xfit 2 / Backend][@xfit-v2-backend] - Workout Planner | <sub>![#last-commit.xfit-v2-backend]</sub>  |
-| [Xfit 2 / Frontend][@xfit-v2-frontend] - Workout Planner | <sub>![#last-commit.xfit-v2-frontend]</sub> |
-
-[@xfit-v2-frontend]: https://github.com/reinielfc/xfit-v2-frontend
-[@xfit-v2-backend]: https://github.com/reinielfc/xfit-v2
-
-[#last-commit.xfit-v2-backend]: https://badgen.net/github/last-commit/reinielfc/xfit-v2/v0.1.0?color=orange
-[#last-commit.xfit-v2-frontend]: https://badgen.net/github/last-commit/reinielfc/xfit-v2-frontend/v0.1.0?color=orange
-
-### :hammer_and_wrench: Tools
+### :hammer_and_wrench: Tools & Scripts
 
 |                                                                     |                                                |
 | ------------------------------------------------------------------- | ---------------------------------------------- |
@@ -49,6 +38,19 @@ public class Main {
 [#last-commit.exif-rename-py]:      https://badgen.net/github/last-commit/reinielfc/exif-rename-py/main?color=orange
 [#last-commit.tb-filter-rules-gen]: https://badgen.net/github/last-commit/reinielfc/tb-filter-rules-gen?color=orange
 [#last-updated.hiccup-remedy]:      https://badgen.net/github/last-commit/reinielfc/hiccup-remedy/v0.1.0?label=last%20updated&color=orange
+
+### :bust_in_silhouette: Personal Projects
+
+|                                                          |                                             |
+| -------------------------------------------------------- | ------------------------------------------- |
+| [Xfit 2 / Backend][@xfit-v2-backend] - Workout Planner   | <sub>![#last-commit.xfit-v2-backend]</sub>  |
+| [Xfit 2 / Frontend][@xfit-v2-frontend] - Workout Planner | <sub>![#last-commit.xfit-v2-frontend]</sub> |
+
+[@xfit-v2-frontend]: https://github.com/reinielfc/xfit-v2-frontend
+[@xfit-v2-backend]: https://github.com/reinielfc/xfit-v2
+
+[#last-commit.xfit-v2-backend]: https://badgen.net/github/last-commit/reinielfc/xfit-v2/v0.1.0?color=orange
+[#last-commit.xfit-v2-frontend]: https://badgen.net/github/last-commit/reinielfc/xfit-v2-frontend/v0.1.0?color=orange
 
 ### :briefcase: Strategio Enterprise Simulator
 
