@@ -25,8 +25,8 @@ public class Main {
 
 |                                         |                                             |
 | --------------------------------------- | ------------------------------------------- |
-| [Xfit 2 / Backend][@xfit-v2-backend] - Workout Planner   | <sub>![#last-commit.xfit-v2-backend]</sub>  |
-| [Xfit 2 / Frontend][@xfit-v2-frontend] | <sub>![#last-commit.xfit-v2-frontend]</sub> |
+| [Xfit 2 / Backend][@xfit-v2-backend] - Workout Planner | <sub>![#last-commit.xfit-v2-backend]</sub>  |
+| [Xfit 2 / Frontend][@xfit-v2-frontend] - Workout Planner | <sub>![#last-commit.xfit-v2-frontend]</sub> |
 
 [@xfit-v2-frontend]: https://github.com/reinielfc/xfit-v2-frontend
 [@xfit-v2-backend]: https://github.com/reinielfc/xfit-v2
