@@ -23,6 +23,17 @@ public class Main {
 [#exercise]:      https://badgen.net/badge/type/%23exercise?label
 [#final-project]: https://badgen.net/badge/type/%23final-project?label
 
+|                                         |                                             |
+| --------------------------------------- | ------------------------------------------- |
+| [Xfit v2 / Backend][@xfit-v2-backend]   | <sub>![#last-commit.xfit-v2-backend]</sub>  |
+| [Xfit v2 / Frontend][@xfit-v2-frontend] | <sub>![#last-commit.xfit-v2-frontend]</sub> |
+
+[@xfit-v2-frontend]: https://github.com/reinielfc/xfit-v2-frontend
+[@xfit-v2-backend]: https://github.com/reinielfc/xfit-v2
+
+[#last-commit.xfit-v2-backend]: https://badgen.net/github/last-commit/reinielfc/xfit-v2/v0.1.0?color=orange
+[#last-commit.xfit-v2-frontend]: https://badgen.net/github/last-commit/reinielfc/xfit-v2-frontend/v0.1.0?color=orange
+
 ### :hammer_and_wrench: Tools
 
 |                                                                     |                                                |
@@ -37,7 +48,7 @@ public class Main {
 
 [#last-commit.exif-rename-py]:      https://badgen.net/github/last-commit/reinielfc/exif-rename-py/main?color=orange
 [#last-commit.tb-filter-rules-gen]: https://badgen.net/github/last-commit/reinielfc/tb-filter-rules-gen?color=orange
-[#last-updated.hiccup-remedy]:       https://badgen.net/github/last-commit/reinielfc/hiccup-remedy/v0.1.0?label=last%20updated&color=orange
+[#last-updated.hiccup-remedy]:      https://badgen.net/github/last-commit/reinielfc/hiccup-remedy/v0.1.0?label=last%20updated&color=orange
 
 ### :briefcase: Strategio Enterprise Simulator
 
@@ -80,11 +91,12 @@ public class Main {
 
 ### :notebook: Notebooks
 
-|                                                                                                                                                      |                                                                             |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [Pluralsight / Java EE7: Getting Started][@pluralsight-jee7-getting-started] / [Bookstore Backend][@pluralsight-jee7-getting-started-bookstore-back] | <sub>![#course] ![#last-commit.pluralsight-jee7-getting-started]</sub>      |
-| [Pluralsight / Working with Classes and Interfaces in Java 11][@pluralsight-java11-classes-interfaces]                                               | <sub>![#course] ![#last-commit.pluralsight-java11-classes-interfaces]</sub> |
-| [Daily Code Buffer / Spring Boot Tutorial][@dcb-spring-boot-tutorial]                                                                                | <sub>![#course] ![#last-commit.dcb-spring-boot-tutorial]</sub>              |
+|                                                                                                                 |                                                                                       |
+| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [Pluralsight / Java EE7: Getting Started][@pluralsight-jee7-getting-started]                                    | <sub>![#course] ![#last-commit.pluralsight-jee7-getting-started]</sub>                |
+| [Pluralsight / Java EE7: Getting Started / Bookstore Backend][@pluralsight-jee7-getting-started-bookstore-back] | <sub>![#course] ![#last-commit.pluralsight-jee7-getting-started-bookstore-back]</sub> |
+| [Pluralsight / Working with Classes and Interfaces in Java 11][@pluralsight-java11-classes-interfaces]          | <sub>![#course] ![#last-commit.pluralsight-java11-classes-interfaces]</sub>           |
+| [Daily Code Buffer / Spring Boot Tutorial][@dcb-spring-boot-tutorial]                                           | <sub>![#course] ![#last-commit.dcb-spring-boot-tutorial]</sub>                        |
 
 [@pluralsight-jee7-getting-started]: https://github.com/reinielfc/pluralsight-jee7-getting-started
 [@pluralsight-jee7-getting-started-bookstore-back]: https://github.com/reinielfc/pluralsight-jee7-getting-started-bookstore-back
@@ -92,6 +104,7 @@ public class Main {
 [@dcb-spring-boot-tutorial]: https://github.com/reinielfc/dcb-spring-boot-tutorial
 
 [#last-commit.pluralsight-jee7-getting-started]: https://badgen.net/github/last-commit/reinielfc/pluralsight-jee7-getting-started?color=orange
+[#last-commit.pluralsight-jee7-getting-started-bookstore-back]: https://badgen.net/github/last-commit/reinielfc/pluralsight-jee7-getting-started-bookstore-back?color=orange
 [#last-commit.pluralsight-java11-classes-interfaces]: https://badgen.net/github/last-commit/reinielfc/pluralsight-java11-classes-interfaces?color=orange
 [#last-commit.dcb-spring-boot-tutorial]: https://badgen.net/github/last-commit/reinielfc/dcb-spring-boot-tutorial?color=orange
 
