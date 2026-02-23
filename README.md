@@ -35,9 +35,9 @@ public class Main {
 [@tb-filter-rules-gen]: https://github.com/reinielfc/tb-filter-rules-gen
 [@hiccup-remedy]:       https://github.com/reinielfc/hiccup-remedy
 
-[#last-commit.exif-rename-py]:      https://badgen.net/github/last-commit/reinielfc/exif-rename-py/main?color=orange
-[#last-commit.tb-filter-rules-gen]: https://badgen.net/github/last-commit/reinielfc/tb-filter-rules-gen?color=orange
-[#last-updated.hiccup-remedy]:      https://badgen.net/github/last-commit/reinielfc/hiccup-remedy/v0.1.0?label=last%20updated&color=orange
+[#last-commit.exif-rename-py]:      https://badgen.net/github/last-commit/reinielfc/exif-rename-py/main?label&color=gray
+[#last-commit.tb-filter-rules-gen]: https://badgen.net/github/last-commit/reinielfc/tb-filter-rules-gen?label&color=gray
+[#last-updated.hiccup-remedy]:      https://badgen.net/github/last-commit/reinielfc/hiccup-remedy/v0.1.0?label&color=gray
 
 ### :bust_in_silhouette: Personal Projects
 
@@ -49,8 +49,8 @@ public class Main {
 [@xfit-v2-frontend]: https://github.com/reinielfc/xfit-v2-frontend
 [@xfit-v2-backend]: https://github.com/reinielfc/xfit-v2
 
-[#last-commit.xfit-v2-backend]: https://badgen.net/github/last-commit/reinielfc/xfit-v2/v0.1.0?color=orange
-[#last-commit.xfit-v2-frontend]: https://badgen.net/github/last-commit/reinielfc/xfit-v2-frontend/v0.1.0?color=orange
+[#last-commit.xfit-v2-backend]: https://badgen.net/github/last-commit/reinielfc/xfit-v2/v0.1.0?label&color=gray
+[#last-commit.xfit-v2-frontend]: https://badgen.net/github/last-commit/reinielfc/xfit-v2-frontend/v0.1.0?label&color=gray
 
 ### :briefcase: Strategio Enterprise Simulator
 
@@ -64,9 +64,9 @@ public class Main {
 [@junit-practice-cart]:     https://github.com/reinielfc/strategio-junit-practice-cart
 [@resolve-merge-conflicts]: https://github.com/reinielfc/strategio-resolve-merge-conflicts
 
-[#last-commit.get-after-it]:            https://badgen.net/github/last-commit/strategio-tech/fp-sim6-devpros?color=orange
-[#last-commit.practice-cart]:           https://badgen.net/github/last-commit/reinielfc/strategio-junit-practice-cart?color=orange
-[#last-commit.resolve-merge-conflicts]: https://badgen.net/github/last-commit/reinielfc/strategio-resolve-merge-conflicts?color=orange
+[#last-commit.get-after-it]:            https://badgen.net/github/last-commit/strategio-tech/fp-sim6-devpros?label&color=gray
+[#last-commit.practice-cart]:           https://badgen.net/github/last-commit/reinielfc/strategio-junit-practice-cart?label&color=gray
+[#last-commit.resolve-merge-conflicts]: https://badgen.net/github/last-commit/reinielfc/strategio-resolve-merge-conflicts?label&color=gray
 
 ### :mortar_board: School Projects
 
@@ -84,11 +84,11 @@ public class Main {
 [@new-project-java]: https://github.com/reinielfc/mdc-new-project-java
 [@jotr]:             https://github.com/reinielfc/mdc-jotr
 
-[#last-updated.xfit]:              https://badgen.net/github/last-commit/reinielfc/xfit/v1.0.1?label=last%20updated&color=orange
-[#last-updated.compair-java]:      https://badgen.net/github/last-commit/reinielfc/mdc-compair-java/v0.3.1?label=last%20updated&color=orange
-[#last-updated.compair-php]:       https://badgen.net/github/last-commit/reinielfc/mdc-compair-php/v0.1.0?label=last%20updated&color=orange
-[#last-updated.new-project-java]:  https://badgen.net/github/last-commit/reinielfc/mdc-new-project-java/v0.1.0?label=last%20updated&color=orange
-[#last-updated.jotr]:              https://badgen.net/github/last-commit/reinielfc/mdc-jotr/v0.1.0?label=last%20updated&color=orange
+[#last-updated.xfit]:              https://badgen.net/github/last-commit/reinielfc/xfit/v1.0.1?label&color=gray
+[#last-updated.compair-java]:      https://badgen.net/github/last-commit/reinielfc/mdc-compair-java/v0.3.1?label&color=gray
+[#last-updated.compair-php]:       https://badgen.net/github/last-commit/reinielfc/mdc-compair-php/v0.1.0?label&color=gray
+[#last-updated.new-project-java]:  https://badgen.net/github/last-commit/reinielfc/mdc-new-project-java/v0.1.0?label&color=gray
+[#last-updated.jotr]:              https://badgen.net/github/last-commit/reinielfc/mdc-jotr/v0.1.0?label&color=gray
 
 
 ### :notebook: Notebooks
@@ -105,10 +105,10 @@ public class Main {
 [@pluralsight-java11-classes-interfaces]: https://github.com/reinielfc/pluralsight-java11-classes-interfaces
 [@dcb-spring-boot-tutorial]: https://github.com/reinielfc/dcb-spring-boot-tutorial
 
-[#last-commit.pluralsight-jee7-getting-started]: https://badgen.net/github/last-commit/reinielfc/pluralsight-jee7-getting-started?color=orange
-[#last-commit.pluralsight-jee7-getting-started-bookstore-back]: https://badgen.net/github/last-commit/reinielfc/pluralsight-jee7-getting-started-bookstore-back?color=orange
-[#last-commit.pluralsight-java11-classes-interfaces]: https://badgen.net/github/last-commit/reinielfc/pluralsight-java11-classes-interfaces?color=orange
-[#last-commit.dcb-spring-boot-tutorial]: https://badgen.net/github/last-commit/reinielfc/dcb-spring-boot-tutorial?color=orange
+[#last-commit.pluralsight-jee7-getting-started]: https://badgen.net/github/last-commit/reinielfc/pluralsight-jee7-getting-started?label&color=gray
+[#last-commit.pluralsight-jee7-getting-started-bookstore-back]: https://badgen.net/github/last-commit/reinielfc/pluralsight-jee7-getting-started-bookstore-back?label&color=gray
+[#last-commit.pluralsight-java11-classes-interfaces]: https://badgen.net/github/last-commit/reinielfc/pluralsight-java11-classes-interfaces?label&color=gray
+[#last-commit.dcb-spring-boot-tutorial]: https://badgen.net/github/last-commit/reinielfc/dcb-spring-boot-tutorial?label&color=gray
 
 <!--
 
