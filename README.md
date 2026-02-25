@@ -38,15 +38,15 @@ public class Main {
 
 |                                                   |                                                |                                                      |
 | ------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
-| [EXIF Rename][@exif-rename-py]                    | <sub>![#last-commit.exif-rename-py]</sub>      | <sub>![#py]</sub> Rename files using their EXIF data |
+| [EXIF Rename][@exif-rename]                       | <sub>![#last-commit.exif-rename]</sub>         | <sub>![#py]</sub> Rename files using their EXIF data |
 | [TB Filter Rules Generator][@tb-filter-rules-gen] | <sub>![#last-commit.tb-filter-rules-gen]</sub> | <sub>![#py]</sub> Generate Thunderbird email filters |
 | [Hiccup Remedy][@hiccup-remedy]                   | <sub>![#last-updated.hiccup-remedy]</sub>      | <sub>![#py]</sub> Czkawka Duplicate Finder Wrapper   |
 
-[@exif-rename-py]:      https://github.com/reinielfc/exif-rename-py
+[@exif-rename]:         https://github.com/reinielfc/exif-rename
 [@tb-filter-rules-gen]: https://github.com/reinielfc/tb-filter-rules-gen
 [@hiccup-remedy]:       https://github.com/reinielfc/hiccup-remedy
 
-[#last-commit.exif-rename-py]:      https://badgen.net/github/last-commit/reinielfc/exif-rename-py/main?color=orange
+[#last-commit.exif-rename]:         https://badgen.net/github/last-commit/reinielfc/exif-rename/main?color=orange
 [#last-commit.tb-filter-rules-gen]: https://badgen.net/github/last-commit/reinielfc/tb-filter-rules-gen?color=orange
 [#last-updated.hiccup-remedy]:      https://badgen.net/github/last-commit/reinielfc/hiccup-remedy/v0.1.0?label=last%20updated&color=orange
 
