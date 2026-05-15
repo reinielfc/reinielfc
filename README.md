@@ -38,14 +38,17 @@ public class Main {
 
 |                                                   |                                                |                                                      |
 | ------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
+| [Link Table][@lntab]                              | <sub>![#last-commit.lntab]</sub>               | <sub>![#go]</sub> Declarative symlink manager        |
 | [EXIF Rename][@exif-rename]                       | <sub>![#last-commit.exif-rename]</sub>         | <sub>![#py]</sub> Rename files using their EXIF data |
 | [TB Filter Rules Generator][@tb-filter-rules-gen] | <sub>![#last-commit.tb-filter-rules-gen]</sub> | <sub>![#py]</sub> Generate Thunderbird email filters |
 | [Hiccup Remedy][@hiccup-remedy]                   | <sub>![#last-updated.hiccup-remedy]</sub>      | <sub>![#py]</sub> Czkawka Duplicate Finder Wrapper   |
 
+[@lntab]:               https://github.com/reinielfc/lntab
 [@exif-rename]:         https://github.com/reinielfc/exif-rename
 [@tb-filter-rules-gen]: https://github.com/reinielfc/tb-filter-rules-gen
 [@hiccup-remedy]:       https://github.com/reinielfc/hiccup-remedy
 
+[#last-commit.lntab]:               https://badgen.net/github/last-commit/reinielfc/lntab?color=orange
 [#last-commit.exif-rename]:         https://badgen.net/github/last-commit/reinielfc/exif-rename/main?color=orange
 [#last-commit.tb-filter-rules-gen]: https://badgen.net/github/last-commit/reinielfc/tb-filter-rules-gen?color=orange
 [#last-updated.hiccup-remedy]:      https://badgen.net/github/last-commit/reinielfc/hiccup-remedy/v0.1.0?label=last%20updated&color=orange
@@ -114,6 +117,7 @@ public class Main {
 <!-- reusable badges -->
 
 [#flask]:  https://img.shields.io/badge/Flask-gray.svg?logo=flask&logoColor=white
+[#go]:     https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white
 [#gh]:     https://img.shields.io/badge/GitHub-24292F?logo=github
 [#git]:    https://img.shields.io/badge/Git-F0F0E8?logo=git
 [#gl]:     https://img.shields.io/badge/GitLab-171321?logo=gitlab
