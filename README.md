@@ -56,11 +56,11 @@ public class Main {
 
 ### :briefcase: Strategio Enterprise Simulator
 
-|                                                      |                                                    |                                                                  |
-| ---------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------- |
-| [Get After It][@get-after-it]                        | <sub>![#last-commit.get-after-it]</sub>            | <sub>![#final-project] ![#flask] ![#react]</sub> Workout Planner |
-| [JUnit Practice Cart][@junit-practice-cart]          | <sub>![#last-commit.practice-cart]</sub>           | <sub>![#exercise] ![#junit]</sub>                                |
-| [Resolving Merge Conficts][@resolve-merge-conflicts] | <sub>![#last-commit.resolve-merge-conflicts]</sub> | <sub>![#exercise] ![#gh]</sub>                                   |
+|                                                      |                                                    |                                                                                         |
+| ---------------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [Get After It][@get-after-it]                        | <sub>![#last-commit.get-after-it]</sub>            | <sub>![#final-project] ![#flask] ![#react]</sub> Fullstack workout planner              |
+| [JUnit Practice Cart][@junit-practice-cart]          | <sub>![#last-commit.practice-cart]</sub>           | <sub>![#exercise] ![#junit]</sub> Learning unit tests by testing Shopping Cart project  |
+| [Resolving Merge Conficts][@resolve-merge-conflicts] | <sub>![#last-commit.resolve-merge-conflicts]</sub> | <sub>![#exercise] ![#gh]</sub> Learn why conflicts happen and how to resolve them       |
 
 [@get-after-it]:            https://github.com/strategio-tech/fp-sim6-devpros
 [@junit-practice-cart]:     https://github.com/reinielfc/strategio-junit-practice-cart
