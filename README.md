@@ -48,7 +48,7 @@ public class Main {
 [@tb-filter-rules-gen]: https://github.com/reinielfc/tb-filter-rules-gen
 [@hiccup-remedy]:       https://github.com/reinielfc/hiccup-remedy
 
-[#last-commit.lntab]:               https://badgen.net/github/last-commit/reinielfc/lntab?color=orange
+[#last-commit.lntab]:               https://badgen.net/github/last-commit/reinielfc/lntab
 [#last-commit.exif-rename]:         https://badgen.net/github/last-commit/reinielfc/exif-rename/main?color=orange
 [#last-commit.tb-filter-rules-gen]: https://badgen.net/github/last-commit/reinielfc/tb-filter-rules-gen?color=orange
 [#last-updated.hiccup-remedy]:      https://badgen.net/github/last-commit/reinielfc/hiccup-remedy/v0.1.0?label=last%20updated&color=orange
