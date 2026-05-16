@@ -36,19 +36,22 @@ public class Main {
 
 ### :hammer_and_wrench: Tools & Scripts
 
-|                                                   |                                                |                                                      |
-| ------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
-| [Link Table][@lntab]                              | <sub>![#last-commit.lntab]</sub>               | <sub>![#go]</sub> Declarative symlink manager        |
-| [EXIF Rename][@exif-rename]                       | <sub>![#last-commit.exif-rename]</sub>         | <sub>![#py]</sub> Rename files using their EXIF data |
-| [TB Filter Rules Generator][@tb-filter-rules-gen] | <sub>![#last-commit.tb-filter-rules-gen]</sub> | <sub>![#py]</sub> Generate Thunderbird email filters |
-| [Hiccup Remedy][@hiccup-remedy]                   | <sub>![#last-updated.hiccup-remedy]</sub>      | <sub>![#py]</sub> Czkawka Duplicate Finder Wrapper   |
+|                                                   |                                                |                                                         |
+| ------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------- |
+| [Link Table][@lntab]                              | <sub>![#last-commit.lntab]</sub>               | <sub>![#go]</sub> Declarative symlink manager           |
+| [Sieve Templates][@sieve-templates]               | <sub>![#last-commit.sieve-templates]</sub>     | <sub>![#py]</sub> Generate Sieve scripts from templates |
+| [EXIF Rename][@exif-rename]                       | <sub>![#last-commit.exif-rename]</sub>         | <sub>![#py]</sub> Rename files using their EXIF data    |
+| [TB Filter Rules Generator][@tb-filter-rules-gen] | <sub>![#last-commit.tb-filter-rules-gen]</sub> | <sub>![#py]</sub> Generate Thunderbird email filters    |
+| [Hiccup Remedy][@hiccup-remedy]                   | <sub>![#last-updated.hiccup-remedy]</sub>      | <sub>![#py]</sub> Czkawka Duplicate Finder Wrapper      |
 
 [@lntab]:               https://github.com/reinielfc/lntab
+[@sieve-templates]:     https://github.com/reinielfc/sieve-templates
 [@exif-rename]:         https://github.com/reinielfc/exif-rename
 [@tb-filter-rules-gen]: https://github.com/reinielfc/tb-filter-rules-gen
 [@hiccup-remedy]:       https://github.com/reinielfc/hiccup-remedy
 
 [#last-commit.lntab]:               https://badgen.net/github/last-commit/reinielfc/lntab
+[#last-commit.sieve-templates]:     https://badgen.net/github/last-commit/reinielfc/sieve-templates
 [#last-commit.exif-rename]:         https://badgen.net/github/last-commit/reinielfc/exif-rename/main?color=orange
 [#last-commit.tb-filter-rules-gen]: https://badgen.net/github/last-commit/reinielfc/tb-filter-rules-gen?color=orange
 [#last-updated.hiccup-remedy]:      https://badgen.net/github/last-commit/reinielfc/hiccup-remedy/v0.1.0?label=last%20updated&color=orange
