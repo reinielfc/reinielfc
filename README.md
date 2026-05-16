@@ -59,7 +59,7 @@ public class Main {
 |                                                      |                                                    |                                                                                |
 | ---------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------ |
 | [Get After It][@get-after-it]                        | <sub>![#last-commit.get-after-it]</sub>            | <sub>![#final-project] ![#flask] ![#react]</sub> Fullstack workout planner     |
-| [JUnit Practice Cart][@junit-practice-cart]          | <sub>![#last-commit.practice-cart]</sub>           | <sub>![#exercise] ![#junit]</sub> Learn unit tests with Shopping Cart project  |
+| [JUnit Practice Cart][@junit-practice-cart]          | <sub>![#last-commit.practice-cart]</sub>           | <sub>![#exercise] ![#junit]</sub> Learn unit tests with shopping cart project  |
 | [Resolving Merge Conficts][@resolve-merge-conflicts] | <sub>![#last-commit.resolve-merge-conflicts]</sub> | <sub>![#exercise] ![#gh]</sub> Learn to resolve merge conflicts                |
 
 [@get-after-it]:            https://github.com/strategio-tech/fp-sim6-devpros
